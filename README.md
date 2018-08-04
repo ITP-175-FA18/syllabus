@@ -7,6 +7,7 @@ Presents instruction in the fundamental concepts of computer programming languag
 ## Instructional Materials
 
 ## Course Objectives
+Upon completion of this course, the student will be able to: • Identify programming terminology and basic mechanics of programming necessary for success in programming courses.• Describe the structured design building blocks applied within programming solutions.• Illustrate structured design using an appropriation notational language (such as pseudo codeand/or flow charting)• Design the core concepts of object-oriented design• Illustrate O-O designs using the standard Unified Modeling Language using an appropriatedesign toolMajor Top
 
 ## Grading and Evaluation
 
