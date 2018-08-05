@@ -12,26 +12,27 @@ Upon completion of this course, the student will be able to: • Identify progr
 ## Grading and Evaluation
 
 ## Learning Sequence
+![projects](https://img.shields.io/badge/projects-point_value-green.svg?style=for-the-badge) ![chats](https://img.shields.io/badge/chats-point_value-orange.svg?style=for-the-badge) ![journals](https://img.shields.io/badge/journals-point_value-blue.svg?style=for-the-badge)
 
 | Week | Starts | Object | Points | Academic Calendar |
 |------|--------|--------|--------|-------------------|
-|01|08/27| Git and Github<br />0-hello-world assignment<br />Class communication| | |
-|02|09/03| | |Labor Day (no classes, college closed) `09/03` |
-|03|09/10| | | Last day to add `09/11`<br />Last day to drop `09/12`|
-|04|09/17| | || 
-|05|09/24| | || 
-|06|10/01| | |Student research/reading day (no classes, college open) `10/02`| 
-|07|10/08| | || 
-|08|10/15| | || 
-|09|10/22| | || 
-|10|10/29||  |Last day to withdraw `10/31` |
-|11|11/05| ||  |
-|12|11/12| | || 
-|13|11/19| | |Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`| 
-|14|11/26| | || 
-|15|12/03| | |Last day of class `12/07` |
-|16|12/10| | |Final exams `12/10 - 12/14` |
-|17|12/17| | |Grades due `12/17` |
+|00|08/27| ![0-hello-world](https://img.shields.io/badge/item-10-green.svg?style=for-the-badge&label=0-hello-world)<br />![0-hello-world](https://img.shields.io/badge/item-5-orange.svg?style=for-the-badge&label=introductions)| | |
+|01|09/03| | |Labor Day (no classes, college closed) `09/03` |
+|02|09/10| | | Last day to add `09/11`<br />Last day to drop `09/12`|
+|03|09/17| | || 
+|04|09/24| | || 
+|05|10/01| | |Student research/reading day (no classes, college open) `10/02`| 
+|06|10/08| | || 
+|07|10/15| | || 
+|08|10/22| | || 
+|09|10/29||  |Last day to withdraw `10/31` |
+|10|11/05| ||  |
+|11|11/12| | || 
+|12|11/19| | |Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`| 
+|13|11/26| | || 
+|14|12/03| | |Last day of class `12/07` |
+|15|12/10| | |Final exams `12/10 - 12/14` |
+|16|12/17| | |Grades due `12/17` |
 
 
 ## Teaching Philosophy
