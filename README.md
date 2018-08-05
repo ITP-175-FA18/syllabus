@@ -31,33 +31,37 @@ You will be graded in three types of activities throughout the course.
 
 **Chats** will be text or video with other students or the professor conducted in Slack. Think of it as "participation" but also an opportunity to use a popular communication tool used on developer teams and see its strengths and weaknesses.
 
-|  Object   |  % of Course Grade |
+|Assignment |  % of Course Grade |
 |:----------|-------------------:|
 | Projects  |                60% |
 | Journals  |                30% |
 | Chats     |                10% |
 
 ## Learning Sequence
+Important dates and assignments are listed here.
+
+All assignments are due Mondays at 9am unless otherwise noted.
+
 ![projects](https://img.shields.io/badge/projects-point_value-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge) ![chats](https://img.shields.io/badge/chats-point_value-orange.svg?style=for-the-badge&logo=slack) ![journals](https://img.shields.io/badge/journals-point_value-blue.svg?logo=github&logoColor=white&style=for-the-badge)
 
 | Week | Starts | Object | Academic Calendar |
 |------|--------|--------|-------------------|
-|00|`08/27`| ![0-hello-world](https://img.shields.io/badge/item-10-blue.svg?logo=github&logoColor=white&style=for-the-badge&label=0-hello-world)<br />![0-hello-world](https://img.shields.io/badge/item-5-orange.svg?logo=slack&style=for-the-badge&label=introductions)| |
-|01|`09/03`| |Labor Day (no classes, college closed) `09/03` |
-|02|`09/10`| | Last day to add `09/11`<br />Last day to drop `09/12`|
-|03|`09/17`| || 
-|04|`09/24`| || 
-|05|`10/01`| |Student research/reading day (no classes, college open) `10/02`| 
-|06|`10/08`| || 
-|07|`10/15`| || 
-|08|`10/22`| || 
-|09|`10/29`| |Last day to withdraw `10/31` |
-|10|`11/05`||  |
-|11|`11/12`| || 
-|12|`11/19`| |Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`| 
-|13|`11/26`| || 
-|14|`12/03`| |Last day of class `12/07` |
-|15|`12/10`| |Final exams `12/10 - 12/14` |
+|00|`08/27`| [Welcome](00-welcome)<br />![0-hello-world](https://img.shields.io/badge/item-10-blue.svg?logo=github&logoColor=white&style=for-the-badge&label=0-hello-world)<br />![0-hello-world](https://img.shields.io/badge/item-5-orange.svg?logo=slack&style=for-the-badge&label=introductions)| |
+|01|`09/03`| [Programming Concepts](01-programming-concepts)|Labor Day (no classes, college closed) `09/03` |
+|02|`09/10`| [Programming Concepts](01-programming-concepts) | Last day to add `09/11`<br />Last day to drop `09/12`|
+|03|`09/17`| Markup Languages || 
+|04|`09/24`| Serialization Languages|| 
+|05|`10/01`| Command Line Interface Languages |Student research/reading day (no classes, college open) `10/02`| 
+|06|`10/08`| Command Line Interface Languages || 
+|07|`10/15`| Interpreted Languages || 
+|08|`10/22`| Interpreted Languages || 
+|09|`10/29`| Imperative Languages |Last day to withdraw `10/31` |
+|10|`11/05`| Imperative Languages|  |
+|11|`11/12`| Declarative Languages|| 
+|12|`11/19`| Declarative Languages|Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`| 
+|13|`11/26`| Final Project || 
+|14|`12/03`| Final Project |Last day of class `12/07` |
+|15|`12/10`| Final Project |Final exams `12/10 - 12/14` |
 |16|`12/17`| |Grades due `12/17` |
 
 
