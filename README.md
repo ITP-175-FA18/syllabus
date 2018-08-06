@@ -12,7 +12,7 @@ Not much of this course will be conducted on Blackboard, we will use industry to
 ## Instructional Materials
 There is no required textbook for this course. All resources will be freely available online. 
 
-**A broadband Internet connection is required.**
+**A broadband Internet connection is required, either at home or through trips to campus/library/cafe/etc.**
 
 ## Course Objectives
 

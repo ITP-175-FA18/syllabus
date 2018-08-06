@@ -1,2 +1,7 @@
 # Command Line Interface Languages
-1. Bash
+## Bash
+
+
+## External Resources
+Glitch terminal
+[Harvard CS50 command line overview](https://www.youtube.com/watch?v=lnYKOnz9ln8)
