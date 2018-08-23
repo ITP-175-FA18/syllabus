@@ -6,9 +6,7 @@ The purpose of this chat is to make sure you have joined our Slack workspace and
 1. Typing the `@` character will allow you to mention or "at" someone using their username. Type a message to `@profmikegreene`.
 1. The **+** button to the right of `Direct Messages` will bring up a window listing all the people in our workspace. Select profmikegreene from the list and send me a Direct Message.
 
-
 You can always send me questions privately via email or Direct Message. But I encourage you to ask them in  `#q-and-a` so that you and your fellow students can help each other out. Programming does not have to be a solo sport!
-
 
 [//]: # (References)
 [1]: https://itp175fa18.slack.com
