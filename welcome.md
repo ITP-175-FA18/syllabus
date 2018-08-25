@@ -31,7 +31,7 @@ Git is a popular version control software used by developers around the world. W
 1. Visit [https://github.com][4] and create an account with your myRCC email address.
 1. Choose the `unlimited public repositories for free` option and click the green `Continue` button. You do not need to check either of the two checkboxes.
 
-    ![Github signup 1][5]
+    ![Github signup 1]({{ site.url }}/.assets/github-signup-1.png)
 
 1. Respond to the questions how you see fit, they are not used for this course.
 
