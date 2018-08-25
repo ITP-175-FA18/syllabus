@@ -49,11 +49,11 @@ Important dates and assignments are listed here.
 
 Topics covered are labelled in this style:
 
-![readings](https://img.shields.io/badge/:-Reading_Topic-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)
+![readings](https://img.shields.io/badge/:-Content_Topic-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)
 
 When practice is available, it is labelled in this style:  
 
-![practice](https://img.shields.io/badge/:-Practice_Topic-333.svg?logo=codecademy&logoColor=white&style=for-the-badge)  
+![practice](https://img.shields.io/badge/:-Codecademy_Practice_Topic-333.svg?logo=codecademy&logoColor=white&style=for-the-badge)  
 
 Assignment types are labelled with these styles:
 

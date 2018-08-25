@@ -92,7 +92,7 @@ In fact, this page you're reading is written in Markdown. Visit [https://raw.git
 [2]: https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#channels
 [3]: https://www.youtube.com/watch?v=9RJZMSsH7-g
 [4]: https://github.com
-[5]: .assets/github-signup-1.png
+[5]: {{ site.url }}/.assets/github-signup-1.png
 [6]: .assets/github-signup-2.png
 [7]: .assets/github-signup-3.png
 
