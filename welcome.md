@@ -95,7 +95,6 @@ In fact, this page you're reading is written in Markdown. Visit [https://raw.git
 [5]: assets/github-signup-1.png
 [6]: assets/github-signup-2.png
 [7]: assets/github-signup-3.png
-
 [11]: https://raw.githubusercontent.com/ITP-175-FA18/syllabus/master/00-welcome.md
 [12]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [13]: https://ncsu-libraries.github.io/markdown-tutorial/lesson/1/
