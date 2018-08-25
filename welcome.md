@@ -92,9 +92,9 @@ In fact, this page you're reading is written in Markdown. Visit [https://raw.git
 [2]: https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#channels
 [3]: https://www.youtube.com/watch?v=9RJZMSsH7-g
 [4]: https://github.com
-[5]: {{ site.baseurl }}/.assets/github-signup-1.png
-[6]: .assets/github-signup-2.png
-[7]: .assets/github-signup-3.png
+[5]: {{ site.baseurl }}/assets/github-signup-1.png
+[6]: assets/github-signup-2.png
+[7]: assets/github-signup-3.png
 
 [11]: https://raw.githubusercontent.com/ITP-175-FA18/syllabus/master/00-welcome.md
 [12]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
