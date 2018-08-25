@@ -92,7 +92,7 @@ In fact, this page you're reading is written in Markdown. Visit [https://raw.git
 [2]: https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#channels
 [3]: https://www.youtube.com/watch?v=9RJZMSsH7-g
 [4]: https://github.com
-[5]: {{ site.baseurl }}/assets/github-signup-1.png
+[5]: assets/github-signup-1.png
 [6]: assets/github-signup-2.png
 [7]: assets/github-signup-3.png
 
@@ -105,10 +105,10 @@ In fact, this page you're reading is written in Markdown. Visit [https://raw.git
 [19]: https://help.github.com/desktop/guides/getting-started-with-github-desktop/authenticating-to-github
 [20]: https://help.github.com/desktop/guides/getting-started-with-github-desktop/configuring-git-for-github-desktop
 [21]: https://www.codecademy.com/
-[22]: .assets/codecademy-1.png
-[23]: .assets/codecademy-2.png
-[24]: .assets/codecademy-3.png
-[25]: .assets/codecademy-4.png
-[26]: .assets/codecademy-5.png
-[27]: .assets/slack-1.png
+[22]: assets/codecademy-1.png
+[23]: assets/codecademy-2.png
+[24]: assets/codecademy-3.png
+[25]: assets/codecademy-4.png
+[26]: assets/codecademy-5.png
+[27]: assets/slack-1.png
 [28]: https://itp175fa18.slack.com

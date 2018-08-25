@@ -55,11 +55,11 @@ Codecademy is great for learning and practicing new concepts, but it is purposef
 
 [//]: # (References)
 [1]: https://www.codecademy.com/learn/learn-the-command-line
-[2]: .assets/cc-cli-1.png
+[2]: assets/cc-cli-1.png
 [3]: https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation
 [4]: https://www.codecademy.com/courses/learn-the-command-line/lessons/manipulation
 [8]: https://glitch.com
-[9]: .assets/glitch-1.png
-[10]: .assets/glitch-2.png
-[11]: .assets/glitch-3.png
-[12]: .assets/glitch-4.png
+[9]: assets/glitch-1.png
+[10]: assets/glitch-2.png
+[11]: assets/glitch-3.png
+[12]: assets/glitch-4.png
