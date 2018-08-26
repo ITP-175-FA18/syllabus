@@ -1,14 +1,28 @@
-# Chat 1 - Learning about cool commands
+# Chat 1 - Learning deeper about basic commands
 
-The purpose of this chat is to begin using search techniques to help further your learning process and 
+The purpose of this chat is to begin developing your self-driven learning and collaboration skills both of which are critical for sustained growth in technical areas.
 
-1. Search the web for lists of command line commands. Find one that seems particuly powerful, cool, intersting or useful and research how to use it.
-2. Go to glitch, open the glitch console, use the command, take a screenshot
-3. 5pts - After joining the [ITP 175 FA18 Slack workspace][1] say hello to your classmates in the `#homeroom` channel.
-4. 5pts - Typing the `@` character will allow you to mention or "at" someone using their username. Type a message to `@profmikegreene`. This will notify, and still allow others in the channel to see the message.
-5. 5pts - The **+** button to the right of `Direct Messages` will bring up a window listing all the people in our workspace. Select profmikegreene from the list and send me a Direct Message.
+1. Search the web for resources with details on the commands you learned about this week.
 
-You can always send me questions privately via email or Direct Message. But I encourage you to ask them in  `#q-and-a` so that you and your fellow students can help each other out. Programming does not have to be a solo sport!
+    What you're looking for is a new way to use the command, a new argument (sometimes called variable), or a way to use it with other commands that wasn't covered in the codecademy lesson.
+
+2. Go to glitch, open the glitch console, use the command, and take a screenshot of the result.
+
+    [This post from Zapier][2] covers how to take screenshots on most platforms.
+
+3. [Join the the `#chat-1` Slack channel][3] and share what you've learned and done.
+
+## Grading Rubric
+
+|-----|--------|
+| 30% | Share a few sentences about what your command is doing and how it is different from what was covered in codecademy this week. |
+| 10% | Share the URL of the resources you found earlier in step 1. |
+| 10% | Share the screenshot of how you used the command in glitch during step 2. |
+| 50% | Chat with your fellow students. Engage them on what you find interesting about their examples, get clarity on something you don't understand, offer help with others ask questions about your example. |
+
+You can always send me questions privately via email or Direct Message. But I encourage you to ask them in  `#chat-1` so that you and your fellow students can help each other out. Programming does not have to be a solo sport!
 
 [//]: # (References)
 [1]: https://itp175fa18.slack.com
+[2]: https://zapier.com/blog/best-screen-capture-tool/
+[3]: https://itp175fa18.slack.com/messages/CCFBE3VFV
