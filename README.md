@@ -47,40 +47,50 @@ You will be graded in three types of activities throughout the course.
 
 Important dates and assignments are listed here.
 
-Topics covered are labelled in this style:
+Topics covered are labelled in this style and will link to various resources: ![readings](https://img.shields.io/badge/:-Content_Topic-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)
 
-![readings](https://img.shields.io/badge/:-Content_Topic-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)
-
-When practice is available, it is labelled in this style:  
-
-![practice](https://img.shields.io/badge/:-Codecademy_Practice_Topic-333.svg?logo=codecademy&logoColor=white&style=for-the-badge)  
-
-Assignment types are labelled with these styles:
+Assignment types are labelled with one of these styles and will link you to the instructions for the assignment:
 
 ![projects](https://img.shields.io/badge/:_Point_Value-projects-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)  
 ![chats](https://img.shields.io/badge/:_Point_Value-Slack_Chats-orange.svg?style=for-the-badge&logo=slack)  
 ![journals](https://img.shields.io/badge/:_Point_Value-Journals-blue.svg?logo=github&logoColor=white&style=for-the-badge)
 
-All assignments are due Mondays at 9am unless otherwise noted.
+**All assignments are due Mondays at 9am unless otherwise noted**.
 
 | Week | Starts | Object | Academic Calendar |
 |------|--------|--------|-------------------|
-|00|`08/27`| [![Welcome](https://img.shields.io/badge/:-Welcome-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](welcome)<br />[![introductions](https://img.shields.io/badge/:_5-Introductions-orange.svg?logo=slack&style=for-the-badge)](chats/Introductions)| |
-|01|`09/03`|[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />![cli practice](https://img.shields.io/badge/:-Learn_the_Command_Line-333.svg?logo=codecademy&logoColor=white&style=for-the-badge)<br />![0-hello-world](https://img.shields.io/badge/:_10-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)<br />![find a cool command](https://img.shields.io/badge/:_5-Find_a_cool_command-orange.svg?logo=slack&style=for-the-badge) |Labor Day (no classes, college closed) `09/03` |
-|02|`09/10`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1) | Last day to add `09/11`<br />Last day to drop `09/12`|
+|00|`08/27`| [![Welcome](https://img.shields.io/badge/:-Welcome-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](welcome)<br />[![introductions](https://img.shields.io/badge/:_15-Introductions-orange.svg?logo=slack&style=for-the-badge)](chats/0-introductions)| |
+
+|01|`09/03`|![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />![find a cool command](https://img.shields.io/badge/:_10-Find_a_cool_command-orange.svg?logo=slack&style=for-the-badge) |Labor Day (no classes, college closed) `09/03` |
+
+|02|`09/10`| Programming Concepts 1 | Last day to add `09/11`<br />Last day to drop `09/12`|
+
 |03|`09/17`| Markup Languages ||
+
 |04|`09/24`| Serialization Languages ||
+
 |05|`10/01`| Programming Concepts 2 |Student research/reading day (no classes, college open) `10/02`|
+
 |06|`10/08`| Interpreted Languages ||
+
 |07|`10/15`| Interpreted Languages ||
+
 |08|`10/22`| Interpreted Languages ||
+
 |09|`10/29`| Declarative Languages |Last day to withdraw `10/31` |
+
 |10|`11/05`| Declarative Languages||
+
 |11|`11/12`| Imperative Languages||
+
 |12|`11/19`| Imperative Languages|Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`|
+
 |13|`11/26`| Final Project ||
+
 |14|`12/03`| Final Project |Last day of class `12/07` |
+
 |15|`12/10`| Final Project |Final exams `12/10 - 12/14` |
+
 |16|`12/17`| |Grades due `12/17` |
 
 ## Teaching Philosophy
