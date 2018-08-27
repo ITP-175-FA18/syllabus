@@ -1,4 +1,4 @@
-# Chat 1 - Learning deeper about basic commands
+# Chat 1 - Digging deeper about basic commands
 
 The purpose of this chat is to begin developing your self-driven learning and collaboration skills both of which are critical for sustained growth in technical areas.
 
