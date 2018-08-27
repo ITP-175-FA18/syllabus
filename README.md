@@ -39,7 +39,7 @@ You will be graded in three types of activities throughout the course.
 
 |Assignment |  % of Course Grade |
 |:----------|-------------------:|
-| Projects  |                60% |
+| Projects  |                50% |
 | Journals  |                30% |
 | Chats     |                20% |
 
