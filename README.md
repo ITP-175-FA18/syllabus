@@ -97,4 +97,4 @@ I will lead by example.
 
 
 [//]: # (References)
-[1]: https://github.com/ITP-175-FA18/0-hello-world#0-hello-world-journal-instructions
+[1]: https://itp-175-fa18.github.io/0-hello-world/
