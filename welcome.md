@@ -53,7 +53,7 @@ Codecademy.com is a website for learning and practicing programming concepts and
 
     ![cc signup 2][23]
 
-3. Codecademy really wants you to signup for their Pro service, which **is not required** for this course. Anytime you are asked to start a free trial, you can skip or exit out of that.
+3. Codecademy really wants you to signup for their Pro service, which is **NOT required** for this course. Anytime you are asked to sign up for Pro, you can skip or exit out of that.
 4. Click the black background to opt out of the Pro trial and you should see a screen like this
 
     ![cc signup 3][24]
@@ -76,7 +76,7 @@ Markdown is a markup language that makes it easy to write rich text documents th
 
 In fact, this page you're reading is written in Markdown. Visit [https://raw.githubusercontent.com/ITP-175-FA18/syllabus/master/00-welcome.md][11] to see what it looks like without formatting.
 
-1. Go through [NCSU's Markdown Tutorial][13] to get comfortable.
+1. Go through [NCSU's Markdown Tutorial][13] to get an introduction to the Markdown language.
 
 #### Extra Resources
 
@@ -91,7 +91,7 @@ In fact, this page you're reading is written in Markdown. Visit [https://raw.git
 [5]: assets/github-signup-1.png
 [6]: assets/github-signup-2.png
 [7]: assets/github-signup-3.png
-[11]: https://raw.githubusercontent.com/ITP-175-FA18/syllabus/master/00-welcome.md
+[11]: https://raw.githubusercontent.com/ITP-175-FA18/syllabus/master/welcome.md
 [12]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [13]: https://ncsu-libraries.github.io/markdown-tutorial/lesson/1/
 [16]: https://www.youtube.com/watch?v=HUBNt18RFbo

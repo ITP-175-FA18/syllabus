@@ -41,7 +41,7 @@ You will be graded in three types of activities throughout the course.
 |:----------|-------------------:|
 | Projects  |                60% |
 | Journals  |                30% |
-| Chats     |                10% |
+| Chats     |                20% |
 
 ## Learning Sequence
 
@@ -97,4 +97,4 @@ I will lead by example.
 
 
 [//]: # (References)
-[1]: https://github.com/ITP-175-FA18/0-hello-world#0-hello-world-instructions
+[1]: https://github.com/ITP-175-FA18/0-hello-world#0-hello-world-journal-instructions
