@@ -41,10 +41,6 @@ Git is a popular version control software used by developers around the world. W
 
     ![Github signup 3][7]
 
-1. Download [Github Desktop][17] and [follow the installation instructions][18]
-1. [Authenticate to Github][19]
-1. Github Desktop should install git on your machine during installation. Follow the [Configure Git for GitHub Desktop][20] instructions to finish the configuration process.
-
 ### Codecademy
 
 Codecademy.com is a website for learning and practicing programming concepts and is a tool we'll be using frequently.
@@ -53,24 +49,24 @@ Codecademy.com is a website for learning and practicing programming concepts and
 
     ![cc signup 1][22]
 
-1. Click the green `Authorize Codecademy` button and enter your Github password if asked.
+2. Click the green `Authorize Codecademy` button and enter your Github password if asked.
 
     ![cc signup 2][23]
 
-1. Codecademy really wants you to signup for their Pro service, which **is not required** for this course. Anytime you are asked to start a free trial, you can skip or exit out of that.
-1. Click the black background to opt out of the Pro trial and you should see a screen like this
+3. Codecademy really wants you to signup for their Pro service, which **is not required** for this course. Anytime you are asked to start a free trial, you can skip or exit out of that.
+4. Click the black background to opt out of the Pro trial and you should see a screen like this
 
     ![cc signup 3][24]
 
-1. Click the `Skip to Dashboard` button in the upper right and you'll be taken to your dashboard.
+5. Click the `Skip to Dashboard` button in the upper right and you'll be taken to your dashboard.
 
     ![cc signup 4][25]
 
-1. Click the yellow/orange `Start` button on the Welcome to Codecademy! course. This course walks you through the codecademy interface. Be sure to click the X on the upgrade to Pro banner.
+6. Click the yellow/orange `Start` button on the Welcome to Codecademy! course. This course walks you through the codecademy interface. Be sure to click the X on the upgrade to Pro banner.
 
     ![cc signup 5][26]
 
-1. The Welcome to Codecademy course does introduce some programming concepts. If you have trouble completing it, do not be discouraged, you are not required to have prior knowledge of programming to take ITP 175.
+7. The Welcome to Codecademy course does introduce some programming concepts. If you have trouble completing it, do not be discouraged, you are not required to have prior knowledge of programming to take ITP 175.
 
 What is most important is that you understand how the codecademy interface works for when we use it to learn and practice concepts later.
 
