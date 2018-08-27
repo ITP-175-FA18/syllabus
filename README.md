@@ -60,7 +60,7 @@ Assignment types are labelled with one of these styles and will link you to the 
 | Week | Starts | Object | Academic Calendar |
 |------|--------|--------|-------------------|
 |00|`08/27`| [![Welcome](https://img.shields.io/badge/:-Welcome-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](welcome)<br />[![introductions](https://img.shields.io/badge/:_15-Introductions-orange.svg?logo=slack&style=for-the-badge)](chats/0-introductions)| |
-|01|`09/03`|![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />![find a cool command](https://img.shields.io/badge/:_10-Find_a_cool_command-orange.svg?logo=slack&style=for-the-badge) |Labor Day (no classes, college closed) `09/03` |
+|01|`09/03`|[![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands](https://img.shields.io/badge/:_10-Digging-deeper-into-commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) |Labor Day (no classes, college closed) `09/03` |
 |02|`09/10`| Programming Concepts 1 | Last day to add `09/11`<br />Last day to drop `09/12`|
 |03|`09/17`| Markup Languages ||
 |04|`09/24`| Serialization Languages ||
@@ -94,3 +94,7 @@ I will engage students to use technology to their advantage at home, work, and i
 I will challenge systems regularly to ensure there is no better way.
 
 I will lead by example.
+
+
+[//]: # (References)
+[1]: https://github.com/ITP-175-FA18/0-hello-world#0-hello-world-instructions
