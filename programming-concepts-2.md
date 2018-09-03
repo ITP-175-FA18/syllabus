@@ -11,3 +11,10 @@
 1. Foreach loops
 
 ## Procedures, Functions, and Libraries
+
+## Scope
+1. [What is scope?][11]
+
+
+[//]: # (References)
+[11]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Scope
