@@ -16,4 +16,4 @@ The purpose of this chat is to continue developing your self-reflection skills.
 | +10% | Bonus points for helping other students find answers to their questions. |
 
 [//]: # (References)
-[1]: 
+[1]: https://itp175fa18.slack.com/messages/CCL65UQJF
