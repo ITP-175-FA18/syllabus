@@ -1,39 +1,36 @@
 # Programming Concepts
 
+Read each of the links below. They contain many links to other pages which you aren't required to read, but are welcome to if the topic peaks your interest.
+
 ## History of computing
 
-1. [Computing Timeline][1]
+The [Computing Timeline][1] is useful for seeing the waves of programming languages and how they evolved from one another.
 
 ## What is programming?
 
-1. [About programming][2]
-1. [What is a programming language?][3]
+[About programming][2] covers the purpose of programming, programming languages, and some differences between programming languages.
 
-## What is computational thinking?
+Programs are [organizated][17] logicly which helps both the computer and the programmers understand how the program works.
 
-1. [What is an Algorithm][4]
-1. [How To Implement a Problem Solution as a Program][5]
-1. [Organization][6]
+When writing complex programs or trying to solve an unfamilar problem, it is best to plan your solution before writing code. This is where [algorithms][4] and [pseudocode][5] come in.
 
-## Number systems
+Although pseudocode isn't written in a programming language, it uses many of the constructs we'll cover below and in the next few weeks. It is incredibly powerful to understand these concepts and pseudocode, because that will allow you to apply them to any programming language. That is why we're covering these concepts first and specific languages later. We'll use these concepts as a frame of reference when we jump from language to language.
 
-### Binary
+## Programming concepts and constructs
 
-1. [Binary][12]
-1. Converting decimal to binary [part 1][14] and [part 2][16]
+### Binary number system
 
-### Hexadecimal
+Modern computers "speak" in 1s and 0s, referred to as [binary][12]. This is because at the lowest level, the CPU of a computer is working with electricity which is either on or off. This is also why you commonly see electrical and computer engineering together at universities.
 
-1. [Hexadecimal][13]
-1. [Converting decimal to hexadecimal][15]
-1. ASCII
+Converting decimal to binary [part 1][14] and [part 2][16] videos are helpful resources for practicing conversions.
 
-## Types of code
+### Hexadecimal number system
 
-1. Source code
-1. Pseudocode
-1. Translators
-1. Compilers and Object code
+[Hexadecimal][13] is another commonly used number system in computing because it converts to binary very well.
+
+[Converting decimal to hexadecimal][15] shows how to convert numbers between the two systems and this [series from BBC][18] shows some of the ways hexadecimal is used in modern computing.
+
+You aren't requried to be an expert at number system conversions for this course, but you will see them throughout your programming journey.
 
 ## Keywords, Types, and Variables
 
@@ -64,3 +61,5 @@
 [14]: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-binary
 [15]: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-hexadecimal
 [16]: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/large-number-decimal-to-binary
+[17]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Organization
+[18]: https://www.bbc.com/bitesize/guides/zp73wmn/revision/1
