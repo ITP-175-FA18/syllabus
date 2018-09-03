@@ -95,6 +95,5 @@ I will challenge systems regularly to ensure there is no better way.
 
 I will lead by example.
 
-
 [//]: # (References)
 [1]: https://itp-175-fa18.github.io/0-hello-world/
