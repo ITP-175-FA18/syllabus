@@ -61,7 +61,7 @@ Assignment types are labelled with one of these styles and will link you to the 
 |------|--------|--------|-------------------|
 |00|`08/27`| [![Welcome](https://img.shields.io/badge/:-Welcome-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](welcome)<br />[![introductions](https://img.shields.io/badge/:_10-Introductions-orange.svg?logo=slack&style=for-the-badge)](chats/0-introductions)| |
 |01|`09/03`|[![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands](https://img.shields.io/badge/:_10-Digging_deeper_into_commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) |Labor Day (no classes, college closed) `09/03` |
-|02|`09/10`| Programming Concepts 1 | Last day to add `09/11`<br />Last day to drop `09/12`|
+|02|`09/10`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal](https://img.shields.io/badge/:_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `09/11`<br />Last day to drop `09/12`|
 |03|`09/17`| Markup Languages ||
 |04|`09/24`| Serialization Languages ||
 |05|`10/01`| Programming Concepts 2 |Student research/reading day (no classes, college open) `10/02`|
@@ -97,3 +97,4 @@ I will lead by example.
 
 [//]: # (References)
 [1]: https://itp-175-fa18.github.io/0-hello-world/
+[2]: https://itp-175-fa18.github.io/1-concepts-journal
