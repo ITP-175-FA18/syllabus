@@ -2,11 +2,11 @@
 
 ## HyperText Markup Language - HTML
 
-There are more than 1 markup languages out there, but for the purpose of this course, we're going to learn HTML, HyperText Markup Language. HTML is the language used to describe things on a web page. It works very differently from the rest of the programming languages we'll learn about in this course and is commonly used alongside them 
+There is more than one markup language out there, but for the purpose of this course, we're going to learn HTML, HyperText Markup Language. HTML is the language used to describe things on a web page. It works very differently from the rest of the programming languages we'll learn about in this course and is commonly used alongside them.
 
 While HTML doesn't have many of the concepts covered last week, like variables, `Javascript`, `Python`, or `Ruby` can be used to store variables that are displayed to users in a website or web application using `HTML`. That may sound overly complicated in theory, but it allows each language to be specialized in its purposed and used for what it is good at, rather than have to serve all purposes, all the time.
 
-1. Login and click the orange `START` button on [Codecademy's Learn HTML][1]. Complete the first 2 modules in this course:
+1. Login and click the orange `START` button on [Codecademy's Learn HTML][1] course. Complete the first 2 modules in this course:
 
 * Introduction to HTML
 * Tables
@@ -17,19 +17,19 @@ In this module you'll learn about the basics of the HTML syntax and the most com
 
 ### Playing around with HTML
 
-Head back to glitch.com and create a new `hello-webpage` project, remember it'll give your project a random name. You can delete the project created previously to play with terminal commands.
+Head back to glitch.com and create a new `hello-webpage` project. Remember, it'll give your project a random name. You can delete the project created previously to play with terminal commands.
 
-1. Click `Edit this project` and you'll be taken to the Glitch editor. 
-1. On the left, you'll see an index.html page, click it and it will open in the main editor pane.
+1. Click `Edit this project` and you'll be taken to the Glitch editor.
+1. On the left, you'll see an index.html file, click it and it will open in the main editor pane.
 1. Add some of the tags you learned about in the Codecademy course to gain practice. You'll notice that glitch offers some helpful features like:
-    * Autocomplete: after typing an opening `<h1>` type `</` and glitch will fill in the `h1>` for you.
-    * Debugging: type `<h1 my heading here</h1>` and glitch will give you a red dot on the left. Hover over the dot for information about the error on that line. This example has two errors, both of which are resolved by fixing the opening h1 tag to `<h1>`.
+    * Autocomplete: after typing an opening `<h1>` type `</` and glitch will fill in the `h1>` for you. Autocomplete can save you millions of keystrokes over your lifetime.
+    * Auto-Debugging: type `<h1 my heading here</h1>` and glitch will give you a red dot on the left. Hover over the dot for information about the error on that line. This example has two errors, both of which are resolved by fixing the opening h1 tag to `<h1>`. Auto-debugging features like this can save you many, many hours. It's like spellcheck for your code.
 
-If you have trouble writing your HTML, click the share button in the upper left and copy the `Code` link into the `#q-and-a` Slack channel.
+**If you have trouble writing your HTML, click the share button in the upper left and copy the `Code` link into the `#q-and-a` Slack channel to ask for help.**
 
 ## Cascading Style Sheets - CSS
 
-Cascading Style Sheets allow you to apply design styles to your HTML tags. 
+Cascading Style Sheets allow you to apply design styles to your HTML tags.
 
 1. Head back to codecademy and click the orange `START` button on [Codecademy's Learn CSS][3]. Complete the first module in this course.
 
@@ -44,7 +44,7 @@ Web Designers and Front-End Web Developers specialize in CSS, an intimate knowle
 
     Now you know that the `style` attribute there contains CSS.
 
-1. There is also `<link rel="stylesheet" href="/style.css">` inside the `<head>` tag near the beginning of the file. This is creating a connections to the `style.css` file you see in the left pane.
+1. There is also `<link rel="stylesheet" href="/style.css">` inside the `<head>` tag near the beginning of the file. This is creating a connection to the `style.css` file you see in the left pane.
 1. Click the `style.css` file in the left pane to open it in the editor pane.
 1. Go back and forth between the `index.html` and `style.css` files and add CSS styles for the HTML tags you added earlier.
 
