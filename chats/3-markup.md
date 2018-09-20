@@ -2,9 +2,9 @@
 
 The purpose of this chat is build research skills related to your career.
 
-1. After going through the content in [markup-languages][2], find an article, blog post, or video that meets these criteria
+1. After going through the content in [markup-languages][2], find an article, blog post, or video that meets these criteria:
     1. Created by a professional in your desired career field
-    1. Related to how one of the concepts in `markup-languages` is used in your desired career field
+    1. Related to how one of the concepts in `markup-languages` is used or not used in your desired career field
 
 1. [Join the the `#chat-3` Slack channel][1]
 1. Post the URL of the article you found.
