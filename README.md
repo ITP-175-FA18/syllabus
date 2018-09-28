@@ -1,3 +1,7 @@
+---
+jpre: 'https://img.shields.io/badge/:'
+jsuf: '-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge'
+---
 # ITP 175 Syllabus
 
 ## Course Description
@@ -51,7 +55,7 @@ Topics covered are labelled in this style and will link to various resources: ![
 
 Assignment types are labelled with one of these styles and will link you to the instructions for the assignment:
 
-![projects](https://img.shields.io/badge/:_Point_Value-projects-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)  
+![projects]({{ page.jpre }}_Point_Value-projects{{ page.jsuf }})  
 ![chats](https://img.shields.io/badge/:_Point_Value-Slack_Chats-orange.svg?style=for-the-badge&logo=slack)  
 ![journals](https://img.shields.io/badge/:_Point_Value-Journals-blue.svg?logo=github&logoColor=white&style=for-the-badge)
 
@@ -63,15 +67,15 @@ Assignment types are labelled with one of these styles and will link you to the 
 |01|`09/03`|[![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands](https://img.shields.io/badge/:_10-Digging_deeper_into_commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) |Labor Day (no classes, college closed) `09/03` |
 |02|`09/10`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal](https://img.shields.io/badge/:_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `09/11`<br />Last day to drop `09/12`|
 |03|`09/17`| [![Markup Languages](https://img.shields.io/badge/:-Markup_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](markup-languages)<br />[![Why learn markup languages?](https://img.shields.io/badge/:_10-why_learn_markup-orange.svg?logo=slack&style=for-the-badge)](chats/3-markup)<br />[![j2-language-differences](https://img.shields.io/badge/:_20-j2--language--differences-blue.svg?logo=github&logoColor=white&style=for-the-badge)][3] ||
-|04|`09/24`| Serialization Languages ||
-|05|`10/01`| Programming Concepts 2 |Student research/reading day (no classes, college open) `10/02`|
+|04|`09/24`| [![Programming Concepts 2](https://img.shields.io/badge/:-Programming_Concepts_2-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-2)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/4-concepts-2) ||
+|05|`10/01`| Interpreted Languages |Student research/reading day (no classes, college open) `10/02`|
 |06|`10/08`| Interpreted Languages ||
 |07|`10/15`| Interpreted Languages ||
-|08|`10/22`| Interpreted Languages ||
-|09|`10/29`| Declarative Languages |Last day to withdraw `10/31` |
-|10|`11/05`| Declarative Languages||
-|11|`11/12`| Imperative Languages||
-|12|`11/19`| Imperative Languages|Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`|
+|08|`10/22`| Imperative Languages ||
+|09|`10/29`| Imperative Languages |Last day to withdraw `10/31` |
+|10|`11/05`| Imperative Languages||
+|11|`11/12`| Declarative Languages||
+|12|`11/19`| Declarative Languages|Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`|
 |13|`11/26`| Final Project ||
 |14|`12/03`| Final Project |Last day of class `12/07` |
 |15|`12/10`| Final Project |Final exams `12/10 - 12/14` |
