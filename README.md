@@ -1,9 +1,9 @@
 ---
 bpre: "https://img.shields.io/badge/:"
 psuf: "-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge"
-csuf: "-orange.svg?logo=slack&style=for-the-badge"
-jsuf: "-blue.svg?logo=github&logoColor=white&style=for-the-badge"
-rsuf: "-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge"
+# csuf: "-orange.svg?logo=slack&style=for-the-badge"
+# jsuf: "-blue.svg?logo=github&logoColor=white&style=for-the-badge"
+# rsuf: "-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge"
 ---
 
 # ITP 175 Syllabus
@@ -67,7 +67,7 @@ Assignment types are labelled with one of these styles and will link you to the 
 
 **All assignments are due Mondays at 9am unless otherwise noted**.
 
-| Week | Starts | Object | Academic Calendar |
+<!-- | Week | Starts | Object | Academic Calendar |
 |------|--------|--------|-------------------|
 |00|`08/27`| [![Welcome]({{ page.bpre }}-Welcome{{ page.rsuf }})](welcome)<br />[![introductions]({{ page.bpre }}_10-Introductions{{ page.csuf }})](chats/0-introductions)| |
 |01|`09/03`| [![0-hello-world]({{ page.bpre }}_20-0--hello--world{{ page.jsuf }})][1]<br />[![Command Line Interface Languages]({{ page.bpre }}-Command_Line_Interfaces{{ page.rsuf }})](cli-languages)<br />[![Dig deeper into commands]({{ page.bpre }}_10-Digging_deeper_into_commands{{ page.csuf }})](chats/1-commands) |Labor Day (no classes, college closed) `09/03` |
@@ -85,7 +85,7 @@ Assignment types are labelled with one of these styles and will link you to the 
 |13|`11/26`| Final Project ||
 |14|`12/03`| Final Project |Last day of class `12/07` |
 |15|`12/10`| Final Project |Final exams `12/10 - 12/14` |
-|16|`12/17`| |Grades due `12/17` |
+|16|`12/17`| |Grades due `12/17` | -->
 
 ## Teaching Philosophy
 
