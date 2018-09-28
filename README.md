@@ -5,6 +5,7 @@ csuf: '-orange.svg?logo=slack&style=for-the-badge'
 jsuf: '-blue.svg?logo=github&logoColor=white&style=for-the-badge'
 rsuf: '-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge'
 ---
+
 # ITP 175 Syllabus
 
 ## Course Description
