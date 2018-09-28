@@ -54,13 +54,15 @@ You will be graded in three types of activities throughout the course.
 
 Important dates and assignments are listed here.
 
-Topics covered are labelled in this style and will link to various resources: ![readings](https://img.shields.io/badge/:-Content_Topic{{ page.rsuf }})
+Topics covered are labelled in this style and will link to various resources:
+
+![readings]({{ page.bpre }}-Content_Topic{{ page.rsuf }})
 
 Assignment types are labelled with one of these styles and will link you to the instructions for the assignment:
 
 ![projects]({{ page.bpre }}_Point_Value-Projects{{ page.psuf }})  
 ![chats]({{ page.bpre }}_Point_Value-Slack_Chats{{ page.csuf }})  
-![journals]({{ page.bpre }}_Point_Value-Journals)
+![journals]({{ page.bpre }}_Point_Value-Journals{{ page.jsuf }})
 
 **All assignments are due Mondays at 9am unless otherwise noted**.
 
