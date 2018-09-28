@@ -1,6 +1,6 @@
 ---
-bpre: "https://img.shields.io/badge/:"
-psuf: "-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge"
+# bpre: "https://img.shields.io/badge/:"
+# psuf: "-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge"
 # csuf: "-orange.svg?logo=slack&style=for-the-badge"
 # jsuf: "-blue.svg?logo=github&logoColor=white&style=for-the-badge"
 # rsuf: "-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge"
@@ -57,13 +57,13 @@ Important dates and assignments are listed here.
 
 Topics covered are labelled in this style and will link to various resources:
 
-![readings]({{ page.bpre }}-Content_Topic{{ page.rsuf }})
+<!-- ![readings]({{ page.bpre }}-Content_Topic{{ page.rsuf }}) -->
 
 Assignment types are labelled with one of these styles and will link you to the instructions for the assignment:
 
-![projects]({{ page.bpre }}_Point_Value-Projects{{ page.psuf }})  
+<!-- ![projects]({{ page.bpre }}_Point_Value-Projects{{ page.psuf }})  
 ![chats]({{ page.bpre }}_Point_Value-Slack_Chats{{ page.csuf }})  
-![journals]({{ page.bpre }}_Point_Value-Journals{{ page.jsuf }})
+![journals]({{ page.bpre }}_Point_Value-Journals{{ page.jsuf }}) -->
 
 **All assignments are due Mondays at 9am unless otherwise noted**.
 
