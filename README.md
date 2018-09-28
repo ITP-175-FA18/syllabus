@@ -1,7 +1,3 @@
----
-bpre: "https://img.shields.io/badge/:"
----
-
 # ITP 175 Syllabus
 
 ## Course Description
@@ -53,23 +49,23 @@ Important dates and assignments are listed here.
 
 Topics covered are labelled in this style and will link to various resources:
 
-<!-- ![readings]({{ page.bpre }}-Content_Topic-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge) -->
+![readings](https://img.shields.io/badge/:-Content_Topic-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)
 
 Assignment types are labelled with one of these styles and will link you to the instructions for the assignment:
 
-<!-- ![projects]({{ page.bpre }}_Point_Value-Projects-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)  
-![chats]({{ page.bpre }}_Point_Value-Slack_Chats-orange.svg?logo=slack&style=for-the-badge)  
-![journals]({{ page.bpre }}_Point_Value-Journals-blue.svg?logo=github&logoColor=white&style=for-the-badge) -->
+![projects](https://img.shields.io/badge/:_Point_Value-Projects-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)  
+![chats](https://img.shields.io/badge/:_Point_Value-Slack_Chats-orange.svg?logo=slack&style=for-the-badge)  
+![journals](https://img.shields.io/badge/:_Point_Value-Journals-blue.svg?logo=github&logoColor=white&style=for-the-badge)
 
 **All assignments are due Mondays at 9am unless otherwise noted**.
 
-<!-- | Week | Starts | Object | Academic Calendar |
+| Week | Starts | Object | Academic Calendar |
 |------|--------|--------|-------------------|
-|00|`08/27`| [![Welcome]({{ page.bpre }}-Welcome-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](welcome)<br />[![introductions]({{ page.bpre }}_10-Introductions-orange.svg?logo=slack&style=for-the-badge)](chats/0-introductions)| |
-|01|`09/03`| [![0-hello-world]({{ page.bpre }}_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages]({{ page.bpre }}-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands]({{ page.bpre }}_10-Digging_deeper_into_commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) |Labor Day (no classes, college closed) `09/03` |
-|02|`09/10`| [![Programming Concepts 1]({{ page.bpre }}-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions]({{ page.bpre }}_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal]({{ page.bpre }}_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `09/11`<br />Last day to drop `09/12`|
-|03|`09/17`| [![Markup Languages]({{ page.bpre }}-Markup_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](markup-languages)<br />[![Why learn markup languages?]({{ page.bpre }}_10-why_learn_markup-orange.svg?logo=slack&style=for-the-badge)](chats/3-markup)<br />[![j2-language-differences]({{ page.bpre }}_20-j2--language--differences-blue.svg?logo=github&logoColor=white&style=for-the-badge)][3] ||
-|04|`09/24`| [![Programming Concepts 2]({{ page.bpre }}-Programming_Concepts_2-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-2)<br />[![Asking questions]({{ page.bpre }}_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/4-concepts-2) ||
+|00|`08/27`| [![Welcome](https://img.shields.io/badge/:-Welcome-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](welcome)<br />[![introductions](https://img.shields.io/badge/:_10-Introductions-orange.svg?logo=slack&style=for-the-badge)](chats/0-introductions)| |
+|01|`09/03`| [![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands](https://img.shields.io/badge/:_10-Digging_deeper_into_commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) |Labor Day (no classes, college closed) `09/03` |
+|02|`09/10`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal](https://img.shields.io/badge/:_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `09/11`<br />Last day to drop `09/12`|
+|03|`09/17`| [![Markup Languages](https://img.shields.io/badge/:-Markup_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](markup-languages)<br />[![Why learn markup languages?](https://img.shields.io/badge/:_10-why_learn_markup-orange.svg?logo=slack&style=for-the-badge)](chats/3-markup)<br />[![j2-language-differences](https://img.shields.io/badge/:_20-j2--language--differences-blue.svg?logo=github&logoColor=white&style=for-the-badge)][3] ||
+|04|`09/24`| [![Programming Concepts 2](https://img.shields.io/badge/:-Programming_Concepts_2-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-2)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/4-concepts-2) ||
 |05|`10/01`| Interpreted Languages |Student research/reading day (no classes, college open) `10/02`|
 |06|`10/08`| Interpreted Languages ||
 |07|`10/15`| Interpreted Languages ||
@@ -81,7 +77,7 @@ Assignment types are labelled with one of these styles and will link you to the 
 |13|`11/26`| Final Project ||
 |14|`12/03`| Final Project |Last day of class `12/07` |
 |15|`12/10`| Final Project |Final exams `12/10 - 12/14` |
-|16|`12/17`| |Grades due `12/17` | -->
+|16|`12/17`| |Grades due `12/17` |
 
 ## Teaching Philosophy
 
