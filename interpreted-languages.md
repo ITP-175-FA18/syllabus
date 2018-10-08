@@ -21,10 +21,10 @@ Javascript is the interpreted language we'll be spending time with in this cours
 
 ## Extra Resources
 
-[JavaScript: Novice to Ninja, 2nd Edition][2]
-[Intro to JavaScript Full Course- youtube][5]
-[Fun Fun Function - youtube channel][6]
-[Dev Tips - youtube channel][7]
+* [JavaScript: Novice to Ninja, 2nd Edition][2]
+* [Intro to JavaScript Full Course- youtube][5]
+* [Fun Fun Function - youtube channel][6]
+* [Dev Tips - youtube channel][7]
 
 [1]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#Language_basics_crash_course
 [2]: https://proquest-safaribooksonline-com.ezrcc.vccs.edu:2443/book/programming/javascript/9781492023623
