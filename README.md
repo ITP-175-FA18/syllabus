@@ -66,9 +66,7 @@ Assignment types are labelled with one of these styles and will link you to the 
 |02|`09/10`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal](https://img.shields.io/badge/:_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `09/11`<br />Last day to drop `09/12`|
 |03|`09/17`| [![Markup Languages](https://img.shields.io/badge/:-Markup_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](markup-languages)<br />[![Why learn markup languages?](https://img.shields.io/badge/:_10-why_learn_markup-orange.svg?logo=slack&style=for-the-badge)](chats/3-markup)<br />[![j2-language-differences](https://img.shields.io/badge/:_20-j2--language--differences-blue.svg?logo=github&logoColor=white&style=for-the-badge)][3] ||
 |04|`09/24`| [![Programming Concepts 2](https://img.shields.io/badge/:-Programming_Concepts_2-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-2)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/4-concepts-2) ||
-|05|`10/01`| Interpreted Languages |Student research/reading day (no classes, college open) `10/02`|
-|06|`10/08`| Interpreted Languages ||
-|07|`10/15`| Interpreted Languages ||
+|06-07|`10/08`| [![Interpreted Languages](https://img.shields.io/badge/:-Interpreted_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](interpreted-languages)<br />[![p0-javascript](https://img.shields.io/badge/:_100-Javascript-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)][4] `DUE 10/22/18` | |
 |08|`10/22`| Imperative Languages ||
 |09|`10/29`| Imperative Languages |Last day to withdraw `10/31` |
 |10|`11/05`| Imperative Languages||
@@ -101,3 +99,4 @@ I will lead by example.
 [1]: https://itp-175-fa18.github.io/0-hello-world/
 [2]: https://itp-175-fa18.github.io/1-concepts-journal
 [3]: https://itp-175-fa18.github.io/j2-language-differences
+[4]: https://itp-175-fa18.github.io/p0-javascript/instructions
