@@ -11,6 +11,8 @@ Watch the following videos from freeCodeCamp's introduction to Javascript. Follo
 1. opening the browser console for the Show Live tab
 1. code in the Glitch editor
 
+There are other videos in the playlist, but these are the ones required for this course.
+
 1. [Variables][8]
 1. [Data Types][9]
 1. [Numbers][10]
