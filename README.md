@@ -70,11 +70,11 @@ Assignment types are labelled with one of these styles and will link you to the 
 |08|`10/22`| [![p0-javascript](https://img.shields.io/badge/:_100-0--Javascript-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)][4] `DUE 10/29/18` ||
 |09|`10/29`|  | Last day to withdraw `10/31` |
 |10|`11/05`| ||
-|11|`11/12`| Declarative Languages||
-|12|`11/19`| Declarative Languages|Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`|
-|13|`11/26`| Final Project ||
-|14|`12/03`| Final Project |Last day of class `12/07` |
-|15|`12/10`| Final Project |Final exams `12/10 - 12/14` |
+|11|`11/12`| ||
+|12|`11/19`| |Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`|
+|13|`11/26`|  ||
+|14|`12/03`|  |Last day of class `12/07` |
+|15|`12/10`|  |Final exams `12/10 - 12/14` |
 |16|`12/17`| |Grades due `12/17` |
 
 ## Teaching Philosophy
