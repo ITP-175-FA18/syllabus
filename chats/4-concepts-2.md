@@ -1,4 +1,4 @@
-# Chat 2 - Questions about Programming Concepts 2
+# Chat 4 - Questions about Programming Concepts 2
 
 The purpose of this chat is to continue developing your self-reflection skills.
 
