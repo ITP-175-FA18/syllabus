@@ -1,4 +1,4 @@
-# RCC ITP 175 Spring 2019
+# Spring 2019
 
 ## Course Description
 
