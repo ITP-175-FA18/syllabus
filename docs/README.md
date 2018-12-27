@@ -1,4 +1,4 @@
-# ITP 175 Syllabus
+# RCC ITP 175 Spring 2019
 
 ## Course Description
 
@@ -61,7 +61,7 @@ Assignment types are labelled with one of these styles and will link you to the 
 
 | Week | Starts | Object | Academic Calendar |
 |------|--------|--------|-------------------|
-|00|`08/27`| [![Welcome](https://img.shields.io/badge/:-Welcome-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](welcome)<br />[![introductions](https://img.shields.io/badge/:_10-Introductions-orange.svg?logo=slack&style=for-the-badge)](chats/0-introductions)| |
+|00|`08/27`| [![Welcome](https://img.shields.io/badge/:-Welcome-fff.svg?logo=read-the-docs&logoColor=blue&style=for-the-badge&colorA=fff&colorB=fff)](welcome)<br />[![introductions](https://img.shields.io/badge/:_10-Introductions-orange.svg?logo=slack&style=for-the-badge&colorA=fff&colorB=fff)](chats/0-introductions)| |
 |01|`09/03`| [![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands](https://img.shields.io/badge/:_10-Digging_deeper_into_commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) |Labor Day (no classes, college closed) `09/03` |
 |02|`09/10`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal](https://img.shields.io/badge/:_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `09/11`<br />Last day to drop `09/12`|
 |03|`09/17`| [![Markup Languages](https://img.shields.io/badge/:-Markup_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](markup-languages)<br />[![Why learn markup languages?](https://img.shields.io/badge/:_10-why_learn_markup-orange.svg?logo=slack&style=for-the-badge)](chats/3-markup)<br />[![j2-language-differences](https://img.shields.io/badge/:_20-j2--language--differences-blue.svg?logo=github&logoColor=white&style=for-the-badge)][3] ||
@@ -101,3 +101,4 @@ I will lead by example.
 [3]: https://itp-175-fa18.github.io/j2-language-differences
 [4]: https://itp-175-fa18.github.io/p0-javascript/instructions
 [5]: https://itp-175-fa18.github.io/p1-js-exercises/instructions.html
+[6]: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/readthedocs.svg
