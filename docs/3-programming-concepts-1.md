@@ -1,3 +1,7 @@
+---
+prev: ./2-cli-languages.md
+next: ./4-markup-languages.md
+---
 # Programming Concepts
 
 Read each of the links below. They contain many links to other pages which you aren't required to read, but are welcome to if the topic peaks your interest.

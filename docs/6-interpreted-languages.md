@@ -1,3 +1,7 @@
+---
+prev: ./5-programming-concepts-2.md
+next: false
+---
 # Interpreted Languages
 
 This module is all about taking those programming concepts and applying them to a specific language.

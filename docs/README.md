@@ -1,4 +1,8 @@
-# Spring 2019
+---
+prev: false
+next: ./1-setup.md
+---
+# Spring 2019 Course Outline
 
 ## Course Description
 
@@ -51,35 +55,37 @@ Important dates and assignments are listed here.
 
 Topics covered are labelled in this style and will link to various resources:
 
-![readings](https://img.shields.io/badge/:-Content_Topic-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)
+:books: readings
 
 Assignment types are labelled with one of these styles and will link you to the instructions for the assignment:
 
-![projects](https://img.shields.io/badge/:_Point_Value-Projects-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)  
-![chats](https://img.shields.io/badge/:_Point_Value-Slack_Chats-orange.svg?logo=slack&style=for-the-badge)  
-![journals](https://img.shields.io/badge/:_Point_Value-Journals-blue.svg?logo=github&logoColor=white&style=for-the-badge)
+:atom_symbol:  projects  
+:speech_balloon: chats  
+:memo: journals
 
-**All assignments are due Mondays at 9am unless otherwise noted**.
+::: tip Due Dates
+All assignments are due Mondays at 9am unless otherwise noted.
+:::
 
-| Week | Starts | Object | Academic Calendar |
-|------|--------|--------|-------------------|
-|00|`01/14`| [![Welcome](https://img.shields.io/badge/:-Welcome-fff.svg?logo=read-the-docs&logoColor=blue&style=for-the-badge&colorA=fff&colorB=fff)](welcome)<br />[![introductions](https://img.shields.io/badge/:_10-Introductions-orange.svg?logo=slack&style=for-the-badge&colorA=fff&colorB=fff)](chats/0-introductions)| |
-|01|`01/21`| [![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands](https://img.shields.io/badge/:_10-Digging_deeper_into_commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) | Martin Luther King Day (no classes, college closed) `01/21` |
-|02|`01/28`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal](https://img.shields.io/badge/:_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `01/29`<br />Last day to drop `01/30`<br />Spring Graduation Application Due Date `01/30`|
-|03|`02/04`| [![Markup Languages](https://img.shields.io/badge/:-Markup_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](markup-languages)<br />[![Why learn markup languages?](https://img.shields.io/badge/:_10-why_learn_markup-orange.svg?logo=slack&style=for-the-badge)](chats/3-markup)<br />[![j2-language-differences](https://img.shields.io/badge/:_20-j2--language--differences-blue.svg?logo=github&logoColor=white&style=for-the-badge)][3] ||
-|04|`02/11`| [![Programming Concepts 2](https://img.shields.io/badge/:-Programming_Concepts_2-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-2)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/4-concepts-2) ||
-|05|`02/18`| [![Interpreted Languages](https://img.shields.io/badge/:-Interpreted_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](interpreted-languages) | |
-|06|`02/25`|  | |
-|07|`03/04`| [![p0-javascript](https://img.shields.io/badge/:_100-0--Javascript-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)][4] `DUE 10/29/18` | Spring Break (no classes, college open) `03/04 - 03/09`|
-|08|`03/11`|  | |
-|09|`03/18`| ||
-|10|`03/25`| [![p1-js-exercises](https://img.shields.io/badge/:_100-1--JS--Exercises-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)][5] `DUE 11/26/18`|Last day to withdraw `03/26` |
-|11|`04/01`| |Student research/reading day (no classes, college open) `04/30` |
-|12|`04/08`|  ||
-|13|`04/15`|  | |
-|14|`04/22`|  |Last day of class `04/29` |
-|15|`04/29`|  |Final exams `05/01 - 05/07`|
-|16|`05/08`| |Grades due `05/08` |
+| Week - Starts | Academic Calendar | Object |
+|:---------------:|:-------------------|:--------|
+|00 - `01/14`| | [:books: Welcome][6]<br />[:speech_balloon: Introductions][7] |
+|01 - `01/21`|Martin Luther King Day `01/21`| [:memo: 0-hello-world][1]<br />[:books: Command Line Interface Languages][8]<br />[:speech_balloon: Dig deeper into commands][9] |
+|02 - `01/28`| Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30`|[:books: Programming Concepts 1][10]<br />[:speech_balloon: Asking questions][11]<br />[:memo: 1-concepts-journal][2] |
+|03 - `02/04`| |[:books: Markup Languages][12]<br />[:speech_balloon: Why learn markup languages?][13]<br />[:memo: j2-language-differences][3] ||
+|04 - `02/11`|| [:books: Programming Concepts 2][14]<br />[:speech_balloon: Asking questions][15] ||
+|05 - `02/18`| |[:books: Interpreted Languages][16] | |
+|06 - `02/25`|  | |
+|07 - `03/04`| Spring Break `03/04 - 03/09`|[:atom_symbol: p0-javascript][4] |
+|08 - `03/11`|  | |
+|09 - `03/18`| ||
+|10 - `03/25`| Last day to withdraw `03/26`|[:atom_symbol: p1-js-exercises][5] |
+|11 - `04/01`| Student research/reading day `04/30` ||
+|12 - `04/08`|  ||
+|13 - `04/15`|  | |
+|14 - `04/22`|  Last day of class `04/29` ||
+|15 - `04/29`|  Final exams `05/01 - 05/07`||
+|16 - `05/08`| Grades due `05/08` ||
 
 ## Teaching Philosophy
 
@@ -105,4 +111,14 @@ I will lead by example.
 [3]: https://itp-175-fa18.github.io/j2-language-differences
 [4]: https://itp-175-fa18.github.io/p0-javascript/instructions
 [5]: https://itp-175-fa18.github.io/p1-js-exercises/instructions.html
-[6]: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/readthedocs.svg
+[6]: welcome.md
+[7]: chats/0-introductions.md
+[8]: cli-languages.md
+[9]: chats/1-commands.md
+[10]: programming-concepts-1.md
+[11]: chats/2-concepts-1.md
+[12]: markup-languages.md
+[13]: chats/3-markup.md
+[14]: programming-concepts-2.md
+[15]: chats/4-concepts-2.md
+[16]: interpreted-languages.md

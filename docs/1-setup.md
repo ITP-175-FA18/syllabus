@@ -1,4 +1,8 @@
-# Welcome
+---
+prev: ./
+next: ./2-cli-languages.md
+---
+# Technology Setup
 
 Welcome to ITP 175! This module we'll
 

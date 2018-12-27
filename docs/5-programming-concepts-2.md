@@ -1,3 +1,7 @@
+---
+prev: ./4-markup-languages.md
+next: ./6-interpreted-languages.md
+---
 # Programming Concepts 2
 
 ## Arrays and other Data Structures

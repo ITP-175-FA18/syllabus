@@ -1,3 +1,7 @@
+---
+prev: ./1-setup.md
+next: ./3-programming-concepts-1.md
+---
 # Command Line Interface Languages
 
 Watch the [Harvard CS50 command line overview](https://www.youtube.com/watch?v=lnYKOnz9ln8)
