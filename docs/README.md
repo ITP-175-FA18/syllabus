@@ -10,13 +10,15 @@ This course is taught be leveraging the wealth of open online content on compute
 
 There will be videos to watch, exercises to complete, lots of writing and reflection, and of course - coding.
 
-Not much of this course will be conducted on Blackboard, we will use industry tools whenever possible.
+Not much of this course will be conducted on Canvas, we will use industry tools whenever possible.
 
 ## Instructional Materials
 
 There is no required textbook for this course. All resources will be freely available online.
 
-**As such, broadband Internet connection is required, either at home or through trips to campus/library/cafe/etc.**
+::: warning High-Speed Internet Required
+As such, a broadband Internet connection is **required**, either at home or through trips to campus/library/cafe/etc.
+:::
 
 ## Course Objectives
 
@@ -61,21 +63,23 @@ Assignment types are labelled with one of these styles and will link you to the 
 
 | Week | Starts | Object | Academic Calendar |
 |------|--------|--------|-------------------|
-|00|`08/27`| [![Welcome](https://img.shields.io/badge/:-Welcome-fff.svg?logo=read-the-docs&logoColor=blue&style=for-the-badge&colorA=fff&colorB=fff)](welcome)<br />[![introductions](https://img.shields.io/badge/:_10-Introductions-orange.svg?logo=slack&style=for-the-badge&colorA=fff&colorB=fff)](chats/0-introductions)| |
-|01|`09/03`| [![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands](https://img.shields.io/badge/:_10-Digging_deeper_into_commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) |Labor Day (no classes, college closed) `09/03` |
-|02|`09/10`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal](https://img.shields.io/badge/:_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `09/11`<br />Last day to drop `09/12`|
-|03|`09/17`| [![Markup Languages](https://img.shields.io/badge/:-Markup_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](markup-languages)<br />[![Why learn markup languages?](https://img.shields.io/badge/:_10-why_learn_markup-orange.svg?logo=slack&style=for-the-badge)](chats/3-markup)<br />[![j2-language-differences](https://img.shields.io/badge/:_20-j2--language--differences-blue.svg?logo=github&logoColor=white&style=for-the-badge)][3] ||
-|04|`09/24`| [![Programming Concepts 2](https://img.shields.io/badge/:-Programming_Concepts_2-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-2)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/4-concepts-2) ||
-|06-08|`10/08`| [![Interpreted Languages](https://img.shields.io/badge/:-Interpreted_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](interpreted-languages) | |
-|08|`10/22`| [![p0-javascript](https://img.shields.io/badge/:_100-0--Javascript-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)][4] `DUE 10/29/18` ||
-|09|`10/29`|  | Last day to withdraw `10/31` |
-|10|`11/05`| ||
-|11|`11/12`| [![p1-js-exercises](https://img.shields.io/badge/:_100-1--JS--Exercises-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)][5] `DUE 11/26/18`||
-|12|`11/19`| |Student research/reading day (no classes, college open) `11/21`<br />Thanksgiving (no classes, college closed) `11/22 - 11/24`|
-|13|`11/26`|  ||
-|14|`12/03`|  |Last day of class `12/07` |
-|15|`12/10`|  |Final exams `12/10 - 12/14` |
-|16|`12/17`| |Grades due `12/17` |
+|00|`01/14`| [![Welcome](https://img.shields.io/badge/:-Welcome-fff.svg?logo=read-the-docs&logoColor=blue&style=for-the-badge&colorA=fff&colorB=fff)](welcome)<br />[![introductions](https://img.shields.io/badge/:_10-Introductions-orange.svg?logo=slack&style=for-the-badge&colorA=fff&colorB=fff)](chats/0-introductions)| |
+|01|`01/21`| [![0-hello-world](https://img.shields.io/badge/:_20-0--hello--world-blue.svg?logo=github&logoColor=white&style=for-the-badge)][1]<br />[![Command Line Interface Languages](https://img.shields.io/badge/:-Command_Line_Interfaces-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](cli-languages)<br />[![Dig deeper into commands](https://img.shields.io/badge/:_10-Digging_deeper_into_commands-orange.svg?logo=slack&style=for-the-badge)](chats/1-commands) | Martin Luther King Day (no classes, college closed) `01/21` |
+|02|`01/28`| [![Programming Concepts 1](https://img.shields.io/badge/:-Programming_Concepts_1-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-1)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/2-concepts-1)<br />[![1-concepts-journal](https://img.shields.io/badge/:_20-1--concepts--journal-blue.svg?logo=github&logoColor=white&style=for-the-badge)][2] | Last day to add `01/29`<br />Last day to drop `01/30`<br />Spring Graduation Application Due Date `01/30`|
+|03|`02/04`| [![Markup Languages](https://img.shields.io/badge/:-Markup_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](markup-languages)<br />[![Why learn markup languages?](https://img.shields.io/badge/:_10-why_learn_markup-orange.svg?logo=slack&style=for-the-badge)](chats/3-markup)<br />[![j2-language-differences](https://img.shields.io/badge/:_20-j2--language--differences-blue.svg?logo=github&logoColor=white&style=for-the-badge)][3] ||
+|04|`02/11`| [![Programming Concepts 2](https://img.shields.io/badge/:-Programming_Concepts_2-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](programming-concepts-2)<br />[![Asking questions](https://img.shields.io/badge/:_10-asking_questions-orange.svg?logo=slack&style=for-the-badge)](chats/4-concepts-2) ||
+|05|`02/18`| [![Interpreted Languages](https://img.shields.io/badge/:-Interpreted_Languages-333.svg?logo=read-the-docs&logoColor=white&style=for-the-badge)](interpreted-languages) | |
+|06|`02/25`|  | |
+|07|`03/04`| [![p0-javascript](https://img.shields.io/badge/:_100-0--Javascript-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)][4] `DUE 10/29/18` | Spring Break (no classes, college open) `03/04 - 03/09`|
+|08|`03/11`|  | |
+|09|`03/18`| ||
+|10|`03/25`| [![p1-js-exercises](https://img.shields.io/badge/:_100-1--JS--Exercises-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge)][5] `DUE 11/26/18`|Last day to withdraw `03/26` |
+|11|`04/01`| |Student research/reading day (no classes, college open) `04/30` |
+|12|`04/08`|  ||
+|13|`04/15`|  | |
+|14|`04/22`|  |Last day of class `04/29` |
+|15|`04/29`|  |Final exams `05/01 - 05/07`|
+|16|`05/08`| |Grades due `05/08` |
 
 ## Teaching Philosophy
 
