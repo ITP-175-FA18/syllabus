@@ -53,17 +53,7 @@ You will be graded in three types of activities throughout the course.
 
 ## Learning Sequence
 
-Important dates and assignments are listed here.
-
-Topics covered are labelled in this style and will link to various resources:
-
-:books: readings
-
-Assignment types are labelled with one of these styles and will link you to the instructions for the assignment:
-
-:atom_symbol:  projects  
-:speech_balloon: chats  
-:memo: journals
+Important dates and assignments are listed here. New content is labelled with the :books: emoji and assignment are labelled with :atom_symbol: for projects, :speech_balloon: for chats, and :memo: for journals. As you can see below, the goal is to have one of each type of assignment every time new content is introduced. The last few weeks are currently reserved and will be used either to explore other programming languages or to adjust the pacing of the content depending on class performance.
 
 ::: tip Due Dates
 All assignments are due Mondays at 9am unless otherwise noted.
@@ -71,17 +61,17 @@ All assignments are due Mondays at 9am unless otherwise noted.
 
 | Week - Starts | Content | Academic Calendar |
 |:---------------:|:-------------------|:--------|
-|00 - `01/14`| :books: Technology Setup<br />:speech_balloon: 00-chat |  |
-|01 - `01/21`| :books: CLI: File System, I/O<br />:speech_balloon: 01-chat<br />:memo: 01-journal<br />:atom_symbol: 01-project | Martin Luther King Day `01/21` |
-|02 - `01/28`| :books: CLI: Editors, Environment, Scripting<br />:speech_balloon: 02-chat<br />:memo: 02-journal | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
-|03 - `02/04`| :books: Git & Github<br />:speech_balloon: 03-chat<br />:memo: 03-journal |  |
-|04 - `02/11`| :books: JS: Variables, Data Types, Operators<br />:speech_balloon: 04-chat<br />:atom_symbol: 04-project |  |
-|05 - `02/18`| :books: JS: Strings, Arrays<br />:speech_balloon: 05-chat<br />:atom_symbol: 05-project |  |
-|06 - `02/25`| :books: JS: Functions, Comparison<br />:speech_balloon: 04-chat <br />:atom_symbol: 06-project |  |
+|00 - `01/14`| :books: Technology Setup<br />:speech_balloon: |  |
+|01 - `01/21`| :books: CLI: File System, I/O<br />:speech_balloon: :memo: :atom_symbol: | Martin Luther King Day `01/21` |
+|02 - `01/28`| :books: CLI: Editors, Environment, Scripting<br />:speech_balloon: :memo: :atom_symbol: | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
+|03 - `02/04`| :books: Git & Github<br />:speech_balloon: :memo: :atom_symbol: |  |
+|04 - `02/11`| :books: JS: Variables, Data Types, Operators<br />:speech_balloon: :memo: :atom_symbol: |  |
+|05 - `02/18`| :books: JS: Strings, Arrays<br />:speech_balloon: :memo: :atom_symbol: |  |
+|06 - `02/25`| :books: JS: Functions, Comparison<br />:speech_balloon: :memo: :atom_symbol: |  |
 |07 - `03/04`| | Spring Break `03/04 - 03/09` |
-|08 - `03/11`| :books: JS: Objects |  |
-|09 - `03/18`| :books: JS: Iteration |  |
-|10 - `03/25`| :atom_symbol: p1-js-exercises] | Last day to withdraw `03/26` |
+|08 - `03/11`| :books: JS: Objects<br />:speech_balloon: :memo: :atom_symbol: |  |
+|09 - `03/18`| :books: JS: Iteration<br />:speech_balloon: :memo: :atom_symbol: |  |
+|10 - `03/25`| | Last day to withdraw `03/26` |
 |11 - `04/01`| | Student research/reading day `04/30` |
 |12 - `04/08`| |  |
 |13 - `04/15`| |  |

@@ -4,48 +4,47 @@ next: ./cli-1.md
 ---
 # Technology Setup
 
-This module we'll:
+:::tip Module Objectives
 
-* get some of our tools setup
-* get acquainted with each other
-* touch the tip of the computer science iceberg :mount_fuji:
+* create accounts and successfully login to the tools used for this course
+* practice in each of the tools to start getting familiar with each of them
+
+:::
 
 ## :books: Tools used in this course
 
-Below are most of the core tools we'll use for this course. It isn't everything we'll use throughout the semester, but we'll add the others when they become necessary.
-
 ### Slack
 
-Slack is our communication tool for this course. It's used by teams in many industries and is quickly changing how teams communicate with each other.
+Slack is our communication tool for this course. It's used by teams in many industries and is quickly changing how teams communicate with each other and with technology.
 
-1. Visit [our signup page][1] and create an account with your myRCC email address.
+1. Visit our [Slack signup][] page and create an account with your myRCC email address.
 
-    If you're new to Slack, you can check out :book:[What is Slack?][2] or :tv:[What is Slack?][3].
+    If you're new to Slack, you can check out [:book: What is Slack?][] or [:tv: What is Slack?][].
 
 1. You've successfully joined our slack when you see a page like this. *If you are new to slack, you won't see the left-most sidebar with all the icons. It only shows when you're in multiple teams.*
 
-    ![slack 1][27]
+    ![RCC Slack #homeroom screenshot][]
 
-1. I recommend you install the desktop and mobile apps, but it is not required. The web app can always be found at [https://rccitp175.slack.com][28]
+1. I recommend you install the desktop and mobile apps, but it is not required. The web app can always be found at [https://rccitp175.slack.com][]
 
 ### Github
 
 Git is a popular version control software used by developers around the world. We'll learn more about how git works a little later.
 
-1. Visit [https://github.com][4] and create an account with your myRCC email address.
+1. Visit [https://github.com][] and create an account with your myRCC email address.
 1. Choose the `unlimited public repositories for free` option and click the green `Continue` button. You do not need to check either of the two checkboxes.
 
-    ![Github signup 1][5]
+    ![Github signup 1][]
 
 1. Respond to the questions how you see fit, they are not used for this course.
 
-    ![Github signup 2][6]
+    ![Github signup 2][]
 
 1. When you've completed sign up, you should see a screen like this and have an email asking you to verify your email address in your inbox. Click the link in that email to verify your address.
 
-    ![Github signup 3][7]
+    ![Github signup 3][]
 
-### Codecademy
+### codecademy
 
 Codecademy.com is a website for learning and practicing programming concepts and is a tool we'll be using frequently.
 
@@ -74,13 +73,10 @@ Codecademy.com is a website for learning and practicing programming concepts and
 
 What is most important is that you understand how the codecademy interface works for when we use it to learn and practice concepts later.
 
-### Markdown
+### freeCodeCamp
 
-Markdown is a markup language that makes it easy to write rich text documents that display nicely online. You will encounter it on github and glitch.
 
-In fact, this page you're reading is written in Markdown. Visit [https://raw.githubusercontent.com/RCC-ITP-175/course/master/docs/1-setup.md][11] to see what it looks like without formatting.
 
-1. Go through [NCSU's Markdown Tutorial][13] to get an introduction to the Markdown language.
 
 ### Glitch
 
@@ -109,8 +105,17 @@ This is especially useful when learning the command line as typing the wrong com
 
 6. Practice the commands you learned. If you get stuck, head back to glitch.com and create a new project to start over.
 
-#### Extra Resources
+### Markdown
 
+Markdown is a markup language that makes it easy to write rich text documents that display nicely online. You will encounter it on github and glitch.
+
+In fact, this page you're reading is written in Markdown. Visit [https://raw.githubusercontent.com/RCC-ITP-175/course/master/docs/1-setup.md][11] to see what it looks like without formatting.
+
+1. Go through [NCSU's Markdown Tutorial][13] to get an introduction to the Markdown language.
+
+### Extra Resources
+
+* :book:[Slack Help Center][]
 * [Markdown-Cheatsheet][12] - text
 * [Markdown Crash Course][16] - 20m video
 
@@ -134,15 +139,14 @@ The purpose of this chat is to make sure you have joined our Slack workspace and
 
 You can always send me questions privately via email or Direct Message. But I encourage you to ask them in  `#q-and-a` so that you and your fellow students can help each other out. Programming does not have to be a solo sport!
 
-
 [//]: # (References)
-[1]: https://rccitp175.slack.com/signup
-[2]: https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#channels
-[3]: https://www.youtube.com/watch?v=9RJZMSsH7-g
-[4]: https://github.com
-[5]: ./assets/github-signup-1.png
-[6]: ./assets/github-signup-2.png
-[7]: ./assets/github-signup-3.png
+[Slack signup]: https://rccitp175.slack.com/signup
+[:book: What is Slack?]: https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-#channels "What is Slack?"
+[:tv: What is Slack?]: https://www.youtube.com/watch?v=9RJZMSsH7-g "What is Slack?"
+[https://github.com]: https://github.com "Github homepage"
+[Github signup 1]: ./assets/github-signup-1.png "Github signup screenshot 1"
+[Github signup 2]: ./assets/github-signup-2.png "Github signup screenshot 2"
+[Github signup 3]: ./assets/github-signup-3.png "Github signup screenshot 3"
 [11]: https://raw.githubusercontent.com/RCC-ITP-175/course/master/docs/1-setup.md
 [12]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [13]: https://ncsu-libraries.github.io/markdown-tutorial/lesson/1/
@@ -157,11 +161,12 @@ You can always send me questions privately via email or Direct Message. But I en
 [24]: ./assets/codecademy-3.png
 [25]: ./assets/codecademy-4.png
 [26]: ./assets/codecademy-5.png
-[27]: ./assets/slack-1.png
-[28]: https://rccitp175.slack.com
+[RCC Slack #homeroom screenshot]: ./assets/slack-1.png "RCC Slack #homeroom screenshot"
+[https://rccitp175.slack.com]: https://rccitp175.slack.com "ITP 175 Slack Workspace"
 [29]: https://rccitp175.slack.com/messages/CF2F82MC4
 [30]: https://glitch.com
 [31]: assets/glitch-1.png
 [32]: assets/glitch-2.png
 [33]: assets/glitch-3.png
 [34]: assets/glitch-4.png
+[Slack Help Center]: https://get.slack.help/hc/en-us/categories/200111606 "Slack Help Center"
