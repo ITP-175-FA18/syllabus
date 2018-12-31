@@ -1,8 +1,10 @@
 ---
 prev: false
-next: ./1-setup.md
+next:  ./setup.md
 ---
 # Spring 2019 Course Outline
+
+Welcome to ITP 175: Concepts of Programming Languages!
 
 ## Course Description
 
@@ -67,25 +69,25 @@ Assignment types are labelled with one of these styles and will link you to the 
 All assignments are due Mondays at 9am unless otherwise noted.
 :::
 
-| Week - Starts | Academic Calendar | Object |
+| Week - Starts | Content | Academic Calendar |
 |:---------------:|:-------------------|:--------|
-|00 - `01/14`| | [:books: Welcome][6]<br />[:speech_balloon: Introductions][7] |
-|01 - `01/21`|Martin Luther King Day `01/21`| [:memo: 0-hello-world][1]<br />[:books: Command Line Interface Languages][8]<br />[:speech_balloon: Dig deeper into commands][9] |
-|02 - `01/28`| Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30`|[:books: Programming Concepts 1][10]<br />[:speech_balloon: Asking questions][11]<br />[:memo: 1-concepts-journal][2] |
-|03 - `02/04`| |[:books: Markup Languages][12]<br />[:speech_balloon: Why learn markup languages?][13]<br />[:memo: j2-language-differences][3] ||
-|04 - `02/11`|| [:books: Programming Concepts 2][14]<br />[:speech_balloon: Asking questions][15] ||
-|05 - `02/18`| |[:books: Interpreted Languages][16] | |
-|06 - `02/25`|  | |
-|07 - `03/04`| Spring Break `03/04 - 03/09`|[:atom_symbol: p0-javascript][4] |
-|08 - `03/11`|  | |
-|09 - `03/18`| ||
-|10 - `03/25`| Last day to withdraw `03/26`|[:atom_symbol: p1-js-exercises][5] |
-|11 - `04/01`| Student research/reading day `04/30` ||
-|12 - `04/08`|  ||
-|13 - `04/15`|  | |
-|14 - `04/22`|  Last day of class `04/29` ||
-|15 - `04/29`|  Final exams `05/01 - 05/07`||
-|16 - `05/08`| Grades due `05/08` ||
+|00 - `01/14`| :books: Technology Setup<br />:speech_balloon: 00-chat |  |
+|01 - `01/21`| :books: CLI: File System, I/O<br />:speech_balloon: 01-chat<br />:memo: 01-journal<br />:atom_symbol: 01-project | Martin Luther King Day `01/21` |
+|02 - `01/28`| :books: CLI: Editors, Environment, Scripting<br />:speech_balloon: 02-chat<br />:memo: 02-journal | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
+|03 - `02/04`| :books: Git & Github<br />:speech_balloon: 03-chat<br />:memo: 03-journal |  |
+|04 - `02/11`| :books: JS: Variables, Data Types, Operators<br />:speech_balloon: 04-chat<br />:atom_symbol: 04-project |  |
+|05 - `02/18`| :books: JS: Strings, Arrays<br />:speech_balloon: 05-chat<br />:atom_symbol: 05-project |  |
+|06 - `02/25`| :books: JS: Functions, Comparison<br />:speech_balloon: 04-chat <br />:atom_symbol: 06-project |  |
+|07 - `03/04`| | Spring Break `03/04 - 03/09` |
+|08 - `03/11`| :books: JS: Objects |  |
+|09 - `03/18`| :books: JS: Iteration |  |
+|10 - `03/25`| :atom_symbol: p1-js-exercises] | Last day to withdraw `03/26` |
+|11 - `04/01`| | Student research/reading day `04/30` |
+|12 - `04/08`| |  |
+|13 - `04/15`| |  |
+|14 - `04/22`| | Last day of class `04/29` |
+|15 - `04/29`| | Final exams `05/01 - 05/07`|
+|16 - `05/08`| | Grades due `05/08` |
 
 ## Teaching Philosophy
 
@@ -111,10 +113,9 @@ I will lead by example.
 [3]: https://itp-175-fa18.github.io/j2-language-differences
 [4]: https://itp-175-fa18.github.io/p0-javascript/instructions
 [5]: https://itp-175-fa18.github.io/p1-js-exercises/instructions.html
-[6]: welcome.md
-[7]: chats/0-introductions.md
+[:books: Technology Setup]: 1-setup.md "Technology Setup"
 [8]: cli-languages.md
-[9]: chats/1-commands.md
+[9]: ./2-cli-languages.md#chat-1-digging-deeper-about-basic-commands
 [10]: programming-concepts-1.md
 [11]: chats/2-concepts-1.md
 [12]: markup-languages.md
