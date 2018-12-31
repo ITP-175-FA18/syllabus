@@ -10,6 +10,7 @@ cache:
         - "node_modules"
 notifications:
     email: false
+    slack: rccitp175:6oY1RkZfQJmCP2z2DI1wuK6x
 deploy:
     provider: pages
     skip-cleanup: true
