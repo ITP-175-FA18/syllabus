@@ -97,6 +97,11 @@ I will challenge systems regularly to ensure there is no better way.
 
 I will lead by example.
 
+## RCC Course Policies
+
+If you are enrolled in this course at RCC
+
+
 [//]: # (References)
 [1]: https://itp-175-fa18.github.io/0-hello-world/
 [2]: https://itp-175-fa18.github.io/1-concepts-journal
