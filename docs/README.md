@@ -101,20 +101,4 @@ I will lead by example.
 
 If you are enrolled in this course at RCC
 
-
 [//]: # (References)
-[1]: https://itp-175-fa18.github.io/0-hello-world/
-[2]: https://itp-175-fa18.github.io/1-concepts-journal
-[3]: https://itp-175-fa18.github.io/j2-language-differences
-[4]: https://itp-175-fa18.github.io/p0-javascript/instructions
-[5]: https://itp-175-fa18.github.io/p1-js-exercises/instructions.html
-[:books: Technology Setup]: 1-setup.md "Technology Setup"
-[8]: cli-languages.md
-[9]: ./2-cli-languages.md#chat-1-digging-deeper-about-basic-commands
-[10]: programming-concepts-1.md
-[11]: chats/2-concepts-1.md
-[12]: markup-languages.md
-[13]: chats/3-markup.md
-[14]: programming-concepts-2.md
-[15]: chats/4-concepts-2.md
-[16]: interpreted-languages.md
