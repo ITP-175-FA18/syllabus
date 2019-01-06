@@ -1,6 +1,6 @@
 ---
 prev: ./
-next: ./cli-1.md
+# next: ./cli-1.md
 ---
 # 00 Technology Setup
 
@@ -11,12 +11,12 @@ next: ./cli-1.md
 
 :::
 
-## :books: Tools used in this course
+## :books: Watch and Read
 
 :::warning
-I recorded these steps and screenshots in fall 2018. Websites evolve quite quickly and some of the steps below may be different. Most changes should be minor enough to figure out, but always remember this. **You don't have to pay for any of the services below**.
+I recorded these steps and screenshots in fall 2018. Websites evolve quite quickly and some of the steps below may be different. Most changes should be minor and easy to figure out. If any of the steps below are gravely inaccurate or confusing, please don't hesitate to reach out on Slack or email and I will update them accordingly.
 
-If any of the steps below are gravely inaccurate or confusing, please don't hesitate to reach out on Slack or email and I will update them accordingly.
+And always remember this, **you don't have to pay for any of the services below**. The free version of everything will work perfectly for this course.
 :::
 
 ### Slack
@@ -136,7 +136,7 @@ In fact, this page you're reading is [written in Markdown][] and you can see wha
 
 1. Go through the [Commonmark Markdown Tutorial][] to get an introduction to the Markdown language.
 
-### Extra Resources
+## Extra Resources
 
 * :book: [Slack Help Center][]
 * :book: [codecademy Help Center][]
@@ -144,11 +144,15 @@ In fact, this page you're reading is [written in Markdown][] and you can see wha
 * :book: [Markdown-Cheatsheet][]
 * :tv: [Markdown Crash Course][]
 
+<div class="asn chat">
+
 ## :speech_balloon: 00 Chat
+
+The purpose of this chat is to make sure you have joined our Slack workspace and give you a chance to use the three types of Slack messages
 
 ### Instructions
 
-The purpose of this chat is to make sure you have joined our Slack workspace and give you a chance to use the three types of Slack messages
+Send the following messages in the ITP 175 Slack.
 
 * a normal message is sent in in a `#channel` and is viewable by the professor and students
 * an `@` message is also sent in a `#channel` and is viewable by the professor and students but also notifies the person you mentioned
@@ -164,6 +168,90 @@ The purpose of this chat is to make sure you have joined our Slack workspace and
 | 25% | Use the **+** button to the right of `Direct Messages` and select profmikegreene from the list to send me a Direct Message that you've been able to login. |
 
 You can always send me questions privately via email or Direct Message. But I encourage you to ask them in  `#q-and-a` or in the channel for that assignment (like `#sp19-00-chat`) so that you and your fellow students can help each other out. Learning and programming are not solo sports!
+
+</div>
+
+<div class="asn journal">
+
+## :memo: 00 Journal
+
+A common technique used by programmers when learning a new language or technique is to do something in a very basic way and call it "hello world".
+
+This assignment introduces journaling for this course, it'll be our hello world journal.
+
+### Instructions
+
+To complete this assignment:
+
+1. After you've gone through all the content for this week, write a Direct Message to Michael Greene (profmikegreene) that contains two lists.
+    1. One for the things you understand most confidently
+    1. One for the things you are struggling with.
+
+    >>The items in these lists can be vocabulary, assignment tasks, concepts, whatever sticks out in your mind. Try to find at least two items per list and feel free to make them as long as you like.
+
+### Grading Rubric
+
+| % | Explanation|
+|-----|:--------|
+| 50% | Direct messaging a list of things you are confident you understand |
+| 50% | Direct messaging a list of things you are struggling with  |
+
+</div>
+
+<div class="asn project">
+
+## :atom_symbol: 00 Project
+
+This assignment is another "hello world" and gives you a first exposure to how projects will be submitted for this course.
+### Instructions
+
+1. Click `Channels` in the Slack sidebar to view all channels.
+1. Find and join the `sp19-00-project` slack channel
+1. In that Slack channel, you will see a link that will take you to Github Classroom
+
+    You'll need to authorize Github Classroom the first time you use it.
+
+    ![Github Classroom screenshot 1][]
+
+1. Click the `Accept this assignment` button and Github will create a version of the project for you.
+
+    ![Github Classroom screenshot 2][]
+
+    ![Github Classroom screenshot 3][]
+
+1. Once this step is complete, the page should say "Your assignment has been created here: https://github.com/RCC-ITP-175/sp19-00-". Click that link to move onto the next step. 
+
+    ::: tip
+    You don't have to remember that link, you can always visit [https://github.com][] and you should now see a repository in the list on the left that starts with `RCC-ITP-175/sp19-00-` and ends with your Github username.
+    :::
+
+    ::: warning
+    Reach out to the professor if you have issues getting to this stage. Do NOT Wait!!
+    :::
+
+1. Because this is a "hello world" project, there is no code for you to write and your project repository is empty. It should look like this:
+
+    ![Empty Github repository][]
+
+1. Click the `creating a new file` link.
+1. Name the file `readme.md`
+1. One line 1 of the file, write `Hello world`
+1. Scroll down and you'll see a section called `Commit new file`. In the smaller textbox type, `create readme.md` and select the Commit directly to the `master` branch option.
+
+    >>On github, a commit is like hitting a "save and upload" button. We'll learn more about Github and version control soon.
+
+1. Click the green `Commit new file` button.
+
+![00-project complete][]
+
+### Grading Rubric
+
+| % | Explanation|
+|-----|:--------|
+| 50% | Completing the Github Classroom process and creating a sp19-00-project repository |
+| 50% | Creating a readme.md file that states `hello world` |
+
+</div>
 
 [//]: # (References)
 [Slack signup]: https://rccitp175.slack.com/signup "RCC ITP 175 Slack signup page"
@@ -199,3 +287,8 @@ You can always send me questions privately via email or Direct Message. But I en
 [freeCodeCamp signup screenshot 3]: ./assets/fcc-3.jpg "freeCodeCamp signup screenshot 3"
 [codecademy Help Center]: https://help.codecademy.com/hc/en-us/categories/202886527-Using-Codecademy "codecademy Help Center"
 [freecodecamp Help Center]:https://support.freecodecamp.org/ "freecodecamp Help Center"
+[Github Classroom screenshot 1]: ./assets/github-classroom-authorize.png "Github Classroom screenshot 1"
+[Github Classroom screenshot 2]: ./assets/GitHub_Classroom1.png "Github Classroom screenshot 2"
+[Github Classroom screenshot 3]: ./assets/GitHub_Classroom2.png "Github Classroom screenshot 3"
+[Empty Github repository]: ./assets/empty-github-repo.jpg "Empty Github repository screenshot"
+[00-project complete]: ./assets/00-project-complete.jpg "00-project complete screenshot"

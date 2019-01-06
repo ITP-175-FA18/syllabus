@@ -1,6 +1,7 @@
 ---
 prev: false
 next:  ./setup.md
+pageClass: course-outline
 ---
 # Spring 2019 Course Outline
 
@@ -47,37 +48,43 @@ You will be graded in three types of activities throughout the course.
 
 |Assignment |  % of Course Grade |
 |:----------|-------------------:|
-| Projects  |                50% |
-| Journals  |                30% |
-| Chats     |                20% |
+| :atom_symbol: Projects  | 50% |
+| :memo: Journals  | 30% |
+| :speech_balloon: Chats | 20% |
 
 ## Learning Sequence
 
-Important dates and assignments are listed here. New content is labelled with the :books: emoji and assignment are labelled with :atom_symbol: for projects, :speech_balloon: for chats, and :memo: for journals. As you can see below, the goal is to have one of each type of assignment every time new content is introduced. The last few weeks are currently reserved and will be used either to explore other programming languages or to adjust the pacing of the content depending on class performance.
+Important dates and assignments are listed below. Readings and videos are labelled with the :books: emoji and practice exercises are labelled with the :repeat:. Assignments are labelled with :atom_symbol: for projects, :speech_balloon: for chats, and :memo: for journals.
+
+As you can see below, the goal is to have one of each type of assignment every time new content is introduced. The last few weeks are currently reserved and will be used either to explore other programming languages or to adjust the pacing of the content depending on class performance.
 
 ::: tip Due Dates
 All assignments are due Mondays at 9am unless otherwise noted.
 :::
 
-| Week - Starts | Content | Academic Calendar |
-|:---------------:|:-------------------|:--------|
-|00 - `01/14`| :books: Technology Setup<br />:speech_balloon: |  |
-|01 - `01/21`| :books: CLI: File System, I/O<br />:speech_balloon: :memo: :atom_symbol: | Martin Luther King Day `01/21` |
-|02 - `01/28`| :books: CLI: Editors, Environment, Scripting<br />:speech_balloon: :memo: :atom_symbol: | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
-|03 - `02/04`| :books: Git & Github<br />:speech_balloon: :memo: :atom_symbol: |  |
-|04 - `02/11`| :books: JS: Variables, Data Types, Operators<br />:speech_balloon: :memo: :atom_symbol: |  |
-|05 - `02/18`| :books: JS: Strings, Arrays<br />:speech_balloon: :memo: :atom_symbol: |  |
-|06 - `02/25`| :books: JS: Functions, Comparison<br />:speech_balloon: :memo: :atom_symbol: |  |
-|07 - `03/04`| | Spring Break `03/04 - 03/09` |
-|08 - `03/11`| :books: JS: Objects<br />:speech_balloon: :memo: :atom_symbol: |  |
-|09 - `03/18`| :books: JS: Iteration<br />:speech_balloon: :memo: :atom_symbol: |  |
-|10 - `03/25`| | Last day to withdraw `03/26` |
-|11 - `04/01`| | Student research/reading day `04/30` |
-|12 - `04/08`| |  |
-|13 - `04/15`| |  |
-|14 - `04/22`| | Last day of class `04/29` |
-|15 - `04/29`| | Final exams `05/01 - 05/07`|
-|16 - `05/08`| | Grades due `05/08` |
+<div class="learning-sequence">
+
+| Starts | Assignments | Module | Academic Calendar |
+|:------:|:-----------:|:-------------------|:--------|
+|`01/14`| :books::speech_balloon::memo: | 00 Technology Setup |  |
+|`01/21`| :books::repeat::speech_balloon::memo::atom_symbol:|01 CLI: File System, I/O | MLK Jr Day `01/21` |
+|`01/28`| :books::repeat::speech_balloon::memo::atom_symbol:| 02 CLI: Editors, Environment, Scripting | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
+|`02/04`| :books::repeat::speech_balloon::memo::atom_symbol: | 03 Git & Github |  |
+|`02/11`| :books::repeat::speech_balloon::memo::atom_symbol: | 04 JS: Variables, Data Types, Operators|  |
+|`02/18`| :books::repeat::speech_balloon::memo::atom_symbol: | 05 JS: Strings, Arrays |  |
+|`02/25`| :books::repeat::speech_balloon::memo::atom_symbol: | 06 JS: Functions, Comparison |  |
+|`03/04`| || Spring Break `03/04 - 03/09` |
+|`03/11`| :books::repeat::speech_balloon::memo::atom_symbol:| 07 JS: Objects |  |
+|`03/18`| :books::repeat::speech_balloon::memo::atom_symbol:| 08 JS: Iteration |  |
+|`03/25`| | | Last day to withdraw `03/26` |
+|`04/01`| | | Student research/reading day `04/30` |
+|`04/08`| | |  |
+|`04/15`| | |  |
+|`04/22`| | | Last day of class `04/29` |
+|`04/29`| | | Final exams `05/01 - 05/07`|
+|`05/08`| | | Grades due `05/08` |
+
+</div>
 
 ## Teaching Philosophy
 
@@ -99,6 +106,6 @@ I will lead by example.
 
 ## RCC Course Policies
 
-If you are enrolled in this course at RCC
+If you are enrolled in this course at RCC can find a version of this syllabus will all RCC/VCCS course policies in Canvas.
 
 [//]: # (References)

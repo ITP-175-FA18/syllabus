@@ -107,10 +107,8 @@ The purpose of this chat is to continue developing your self-reflection skills.
 ### Instructions
 
 1. Update your freecodecamp profile settings by clicking your profile image in the upper right
-1. Scroll down to privacy settings and make your profile and timeline public. All other settings are up to you.
 1. Scroll back up to the top and click the "Show me my public portfolio" button.
 1. Copy the URL of your profile.
-
 1. Visit your codecademy profile by clicking your profile image in the upper right and select My Profile
 1. Click the Badges area in the middle of the screen
 1. Copy the URL of your badges.
