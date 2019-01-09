@@ -4,17 +4,15 @@ prev: ./
 ---
 # 00 Technology Setup
 
-:::tip Module Objectives
+## Module Objectives
 
 * create accounts and successfully login to the tools used for this course
 * practice in each of the tools to start getting familiar with each of them
 
-:::
-
 ## :books: Watch and Read
 
 :::warning
-I recorded these steps and screenshots in fall 2018. Websites evolve quite quickly and some of the steps below may be different. Most changes should be minor and easy to figure out. If any of the steps below are gravely inaccurate or confusing, please don't hesitate to reach out on Slack or email and I will update them accordingly.
+I recorded these steps and screenshots in fall 2018. Websites evolve quite quickly and some of the steps below may be different. Most changes should be minor and easy to figure out. If any of the steps below are gravely inaccurate or confusing, don't hesitate to reach out on Slack or email and I will update them accordingly.
 
 And always remember this, **you don't have to pay for any of the services below**. The free version of everything will work perfectly for this course.
 :::
@@ -103,7 +101,7 @@ All other settings are up to you. If you choose to change your username, be sure
 
 ### Glitch
 
-Codecademy and freeCodeCamp are great for learning and practicing new concepts, but they are purposefully limiting in what you can do. When we need more flexibility you'll use a site called Glitch to apply the knowledge you've been learning.
+Codecademy and freeCodeCamp are great for learning and practicing new concepts, but they are purposefully limiting in what you can do. When we need more flexibility, we'll use a site called Glitch to apply the concepts.
 
 This is especially useful when learning the command line as typing the wrong command on your personal computer can do serious damage.
 
@@ -130,7 +128,7 @@ This is especially useful when learning the command line as typing the wrong com
 
 ### Markdown
 
-Markdown is a markup language that makes it easy to write rich text documents that display nicely online. You will encounter it on github and glitch.
+Markdown is a markup language that makes it easy to write rich text documents that display nicely online. You will encounter it on github and glitch, and it's a quick way to type notes as well.
 
 In fact, this page you're reading is [written in Markdown][] and you can see what it looks like without formatting.
 
@@ -148,15 +146,21 @@ In fact, this page you're reading is [written in Markdown][] and you can see wha
 
 ## :speech_balloon: 00 Chat
 
+**Due: 01/21/19 9 AM**
+
 The purpose of this chat is to make sure you have joined our Slack workspace and give you a chance to use the three types of Slack messages
+
+* a normal message is sent in in a `#channel` and is viewable by the professor and students
+* an `@` message is also sent in a `#channel` and is viewable by the professor and students but also notifies the person you mentioned
+* a `direct message` is private and only viewable by you and the person you are direct messaging
 
 ### Instructions
 
 Send the following messages in the ITP 175 Slack.
 
-* a normal message is sent in in a `#channel` and is viewable by the professor and students
-* an `@` message is also sent in a `#channel` and is viewable by the professor and students but also notifies the person you mentioned
-* a `direct message` is private and only viewable by you and the person you are direct messaging
+1. A normal message in `#homeroom` introducing yourself to your classmates.
+1. Join the [#sp19-00-chat][] channel and use `@profmikegreene` to mention me. Ask a question you have about the course or programming.
+1. Use the **+** button to the right of `Direct Messages` and select profmikegreene from the list to send me a Direct Message that you've been able to login.
 
 ### Grading Rubric
 
@@ -164,8 +168,8 @@ Send the following messages in the ITP 175 Slack.
 |-----|:--------|
 | 25% | Complete [Slack signup][] and join our ITP 175 Slack workspace |
 | 25% | Say hello to your classmates in the `#homeroom` channel. |
-| 25% | Join the [#sp19-00-chat][] channel and use `@profmikegreene` to mention me and ask a question you have about the course or programming. |
-| 25% | Use the **+** button to the right of `Direct Messages` and select profmikegreene from the list to send me a Direct Message that you've been able to login. |
+| 25% | Use `@profmikegreene` in `#sp19-00-chat` and ask a question you have about the course or programming. |
+| 25% | Direct Message profmikegreene stating that you've been able to login. |
 
 You can always send me questions privately via email or Direct Message. But I encourage you to ask them in  `#q-and-a` or in the channel for that assignment (like `#sp19-00-chat`) so that you and your fellow students can help each other out. Learning and programming are not solo sports!
 
@@ -175,32 +179,34 @@ You can always send me questions privately via email or Direct Message. But I en
 
 ## :memo: 00 Journal
 
+**Due: 01/21/19 9 AM**
+
 A common technique used by programmers when learning a new language or technique is to do something in a very basic way and call it "hello world".
 
 This assignment introduces journaling for this course, it'll be our hello world journal.
 
 ### Instructions
 
-To complete this assignment:
-
-1. After you've gone through all the content for this week, write a Direct Message to Michael Greene (profmikegreene) that contains two lists.
+1. After you've gone through all the content for this week, open Slack and write a `Direct Message` to Michael Greene (profmikegreene) that contains two lists.
     1. One for the things you understand most confidently
     1. One for the things you are struggling with.
 
-    >>The items in these lists can be vocabulary, assignment tasks, concepts, whatever sticks out in your mind. Try to find at least two items per list and feel free to make them as long as you like.
+>The items in these lists can be vocabulary, assignment tasks, concepts, whatever sticks out in your mind. Try to find at least two items per list and feel free to make them as long as you like.
 
 ### Grading Rubric
 
 | % | Explanation|
 |-----|:--------|
-| 50% | Direct messaging a list of things you are confident you understand |
-| 50% | Direct messaging a list of things you are struggling with  |
+| 50% | Direct message to `profmikegreene` containing a list of things you are confident you understand |
+| 50% | Direct message to `profmikegreene` containing a list of things you are struggling with  |
 
 </div>
 
 <div class="asn project">
 
 ## :atom_symbol: 00 Project
+
+**Due: 01/21/19 9 AM**
 
 This assignment is another "hello world" and gives you a first exposure to how projects will be submitted for this course.
 ### Instructions
@@ -238,7 +244,7 @@ This assignment is another "hello world" and gives you a first exposure to how p
 1. One line 1 of the file, write `Hello world`
 1. Scroll down and you'll see a section called `Commit new file`. In the smaller textbox type, `create readme.md` and select the Commit directly to the `master` branch option.
 
-    >>On github, a commit is like hitting a "save and upload" button. We'll learn more about Github and version control soon.
+    >On github, a commit is like hitting a "save and upload" button. We'll learn more about Github and version control soon.
 
 1. Click the green `Commit new file` button.
 

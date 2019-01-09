@@ -3,7 +3,7 @@ prev: false
 next:  ./setup.md
 pageClass: course-outline
 ---
-# Spring 2019 Course Outline
+# SP19 Course Outline
 
 Welcome to ITP 175: Concepts of Programming Languages!
 
@@ -17,7 +17,7 @@ This course is taught be leveraging the wealth of open online content on compute
 
 There will be videos to watch, exercises to complete, lots of writing and reflection, and of course - coding.
 
-Not much of this course will be conducted on Canvas, we will use industry tools whenever possible.
+Not much of this course will be conducted on Canvas, we will use industry tools used by technical teams around the world whenever possible.
 
 ## Instructional Materials
 
@@ -34,17 +34,16 @@ Upon completion of this course, you will be able to:
 * Identify programming terminology and concepts.
 * Describe the structured design building blocks applied within programming solutions.
 * Understand algorithmic and computational thinking for efficient problem solving.
-* Understand the differences between popular programming languages.
 
 ## Grading and Evaluation
 
 You will be graded in three types of activities throughout the course.
 
-**Projects** will take various forms and will primarily focus on demonstrating mastery of topics.
+:atom_symbol: **Projects** will take various forms and will primarily focus on demonstrating mastery of topics.
 
-**Journals** will be used for documenting your learning process. Self evaluation is critical in many work environments and understanding what you're struggling with and excelling at is a key skill for continuous learning throughout life.
+:memo: **Journals** will be used for documenting your learning process. Self evaluation is critical in many work environments and understanding what you're struggling with and excelling at is a key skill for continuous learning throughout life.
 
-**Chats** will be text or video with other students or the professor conducted in Slack. Think of it as "participation" but also an opportunity to use a popular communication tool used on developer teams and see its strengths and weaknesses.
+:speech_balloon: **Chats** will be text or video with other students or the professor conducted in Slack. Think of it as "participation" but also an opportunity to use a popular communication tool used on developer teams and see its strengths and weaknesses.
 
 |Assignment |  % of Course Grade |
 |:----------|-------------------:|
@@ -54,7 +53,7 @@ You will be graded in three types of activities throughout the course.
 
 ## Learning Sequence
 
-Important dates and assignments are listed below. Readings and videos are labelled with the :books: emoji and practice exercises are labelled with the :repeat:. Assignments are labelled with :atom_symbol: for projects, :speech_balloon: for chats, and :memo: for journals.
+Important dates and assignments are listed below.
 
 As you can see below, the goal is to have one of each type of assignment every time new content is introduced. The last few weeks are currently reserved and will be used either to explore other programming languages or to adjust the pacing of the content depending on class performance.
 
@@ -66,16 +65,16 @@ All assignments are due Mondays at 9am unless otherwise noted.
 
 | Starts | Assignments | Module | Academic Calendar |
 |:------:|:-----------:|:-------------------|:--------|
-|`01/14`| :books::speech_balloon::memo: | 00 Technology Setup |  |
-|`01/21`| :books::repeat::speech_balloon::memo::atom_symbol:|01 CLI: File System, I/O | MLK Jr Day `01/21` |
-|`01/28`| :books::repeat::speech_balloon::memo::atom_symbol:| 02 CLI: Editors, Environment, Scripting | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
+|`01/14`| :books::speech_balloon::memo::atom_symbol: | [00 Technology Setup][] |  |
+|`01/21`| :books::repeat::speech_balloon::memo::atom_symbol:|01 Linux CLI: File System, I/O | MLK Jr Day `01/21` |
+|`01/28`| :books::repeat::speech_balloon::memo::atom_symbol:| 02 Linux CLI: Editors, Environment, Scripting | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
 |`02/04`| :books::repeat::speech_balloon::memo::atom_symbol: | 03 Git & Github |  |
-|`02/11`| :books::repeat::speech_balloon::memo::atom_symbol: | 04 JS: Variables, Data Types, Operators|  |
-|`02/18`| :books::repeat::speech_balloon::memo::atom_symbol: | 05 JS: Strings, Arrays |  |
-|`02/25`| :books::repeat::speech_balloon::memo::atom_symbol: | 06 JS: Functions, Comparison |  |
+|`02/11`| :books::repeat::speech_balloon::memo::atom_symbol: | 04 JavaScript: Variables, Data Types, Operators|  |
+|`02/18`| :books::repeat::speech_balloon::memo::atom_symbol: | 05 JavaScript: Strings, Arrays |  |
+|`02/25`| :books::repeat::speech_balloon::memo::atom_symbol: | 06 JavaScript: Functions, Comparison |  |
 |`03/04`| || Spring Break `03/04 - 03/09` |
-|`03/11`| :books::repeat::speech_balloon::memo::atom_symbol:| 07 JS: Objects |  |
-|`03/18`| :books::repeat::speech_balloon::memo::atom_symbol:| 08 JS: Iteration |  |
+|`03/11`| :books::repeat::speech_balloon::memo::atom_symbol:| 07 JavaScript: Objects |  |
+|`03/18`| :books::repeat::speech_balloon::memo::atom_symbol:| 08 JavaScript: Iteration |  |
 |`03/25`| | | Last day to withdraw `03/26` |
 |`04/01`| | | Student research/reading day `04/30` |
 |`04/08`| | |  |
@@ -109,3 +108,4 @@ I will lead by example.
 If you are enrolled in this course at RCC can find a version of this syllabus will all RCC/VCCS course policies in Canvas.
 
 [//]: # (References)
+[00 Technology Setup]: setup.md
