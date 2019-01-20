@@ -66,7 +66,7 @@ All assignments are due Mondays at 9am unless otherwise noted.
 | Starts | Assignments | Module | Academic Calendar |
 |:------:|:-----------:|:-------------------|:--------|
 |`01/14`| :books::speech_balloon::memo::atom_symbol: | [00 Technology Setup][] |  |
-|`01/21`| :books::repeat::speech_balloon::memo::atom_symbol:|01 Linux CLI: File System, I/O | MLK Jr Day `01/21` |
+|`01/21`| :books::repeat::speech_balloon::memo::atom_symbol:|[01 Linux CLI: File System] | MLK Jr Day `01/21` |
 |`01/28`| :books::repeat::speech_balloon::memo::atom_symbol:| 02 Linux CLI: Editors, Environment, Scripting | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
 |`02/04`| :books::repeat::speech_balloon::memo::atom_symbol: | 03 Git & Github |  |
 |`02/11`| :books::repeat::speech_balloon::memo::atom_symbol: | 04 JavaScript: Variables, Data Types, Operators|  |
@@ -108,4 +108,5 @@ I will lead by example.
 If you are enrolled in this course at RCC can find a version of this syllabus will all RCC/VCCS course policies in Canvas.
 
 [//]: # (References)
-[00 Technology Setup]: setup.md
+[00 Technology Setup]: setup.md "Module 00 Technology Setup"
+[01 Linux CLI: File System]: cli-1.md "Module 01 Linux CLI"

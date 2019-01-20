@@ -1,6 +1,6 @@
 ---
 prev: ./
-# next: ./cli-1.md
+next: ./cli-1.md
 ---
 # 00 Technology Setup
 

@@ -11,7 +11,7 @@ module.exports = {
         items: [
           { text: 'Home', link: '/'},
           { text: '00 Technology Setup', link: 'setup.md'},
-          // { text: '01 Linux CLI: File System, I/O', link: 'cli-1.md'},
+          { text: '01 Linux CLI: File System, I/O', link: 'cli-1.md'},
           // { text: '02 Linux CLI: Editors, Environment, Scripting', link: 'cli-2.md'},
           // { text: '03 Git & Github', link: 'git.md'},
           // { text: '04 JavaScript: Variables, Data Types, Operators', link: 'js-1.md'},
