@@ -67,19 +67,18 @@ All assignments are due Mondays at 9am unless otherwise noted.
 |:------:|:-----------:|:-------------------|:--------|
 |`01/14`| :books::speech_balloon::memo::atom_symbol: | [00 Technology Setup][] |  |
 |`01/21`| :books::repeat::speech_balloon::memo::atom_symbol:|[01 Linux CLI: File System] | MLK Jr Day `01/21` |
-|`01/28`| :books::repeat::speech_balloon::memo::atom_symbol:| 02 Linux CLI: Editors, Environment, Scripting | Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
-|`02/04`| :books::repeat::speech_balloon::memo::atom_symbol: | 03 Git & Github |  |
-|`02/11`| :books::repeat::speech_balloon::memo::atom_symbol: | 04 JavaScript: Variables, Data Types, Operators|  |
-|`02/18`| :books::repeat::speech_balloon::memo::atom_symbol: | 05 JavaScript: Strings, Arrays |  |
-|`02/25`| :books::repeat::speech_balloon::memo::atom_symbol: | 06 JavaScript: Functions, Comparison |  |
+|`01/28`| :books::repeat::speech_balloon::memo::atom_symbol:| *No assignments due to codecademy issues*| Last day to add `01/29`<br />Last day to drop `01/30`<br />Graduation Application Due `01/30` |
+|`02/04`| :books::repeat::speech_balloon::memo::atom_symbol:| 02 Linux CLI: Editors, Environment, Scripting | |
+|`02/18`| :books::repeat::speech_balloon::memo::atom_symbol: | 03 Git & Github |  |
 |`03/04`| || Spring Break `03/04 - 03/09` |
-|`03/11`| :books::repeat::speech_balloon::memo::atom_symbol:| 07 JavaScript: Objects |  |
-|`03/18`| :books::repeat::speech_balloon::memo::atom_symbol:| 08 JavaScript: Iteration |  |
-|`03/25`| | | Last day to withdraw `03/26` |
-|`04/01`| | | Student research/reading day `04/30` |
-|`04/08`| | |  |
+|`03/11`| :books::repeat::speech_balloon::memo::atom_symbol: | 04 JavaScript: Variables, Data Types, Operators|  |
+|`03/18`| :books::repeat::speech_balloon::memo::atom_symbol: | 05 JavaScript: Strings, Arrays |  |
+
+|`03/25`| :books::repeat::speech_balloon::memo::atom_symbol: | 06 JavaScript: Functions, Comparison | Last day to withdraw `03/26` |
+|`04/01`| :books::repeat::speech_balloon::memo::atom_symbol:| 07 JavaScript: Objects |  |
+|`04/08`| :books::repeat::speech_balloon::memo::atom_symbol:| 08 JavaScript: Iteration |  |
 |`04/15`| | |  |
-|`04/22`| | | Last day of class `04/29` |
+|`04/22`| | | Last day of class `04/29`<br />Student research/reading day `04/30`|
 |`04/29`| | | Final exams `05/01 - 05/07`|
 |`05/08`| | | Grades due `05/08` |
 

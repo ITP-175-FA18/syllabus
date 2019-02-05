@@ -1,6 +1,6 @@
 ---
 prev: ./setup.md
-# next: ./cli-2.md
+next: ./cli-2.md
 ---
 # CLI Languages
 
