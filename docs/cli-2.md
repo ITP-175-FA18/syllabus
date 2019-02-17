@@ -1,6 +1,6 @@
 ---
 prev: ./cli-1.md
-# next: ./git.md
+next: ./git.md
 ---
 
 # CLI Languages Part 2
