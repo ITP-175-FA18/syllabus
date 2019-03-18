@@ -67,7 +67,7 @@ Because every glitch project is already a git repository, you cannot easily do a
    :::
 
 1. Create new files or edit existing files to make changes we want to push to github
-1. Enter `git add FILENAME` to add all new and modified files to the git staging area
+1. Enter `git add FILENAME`, replacing FILENAME with the actual name of the file of each file you want to add to add to the git staging area.
 
     :::tip
     You can use `git add .` to add all changes at once to the staging area, but be careful as this may add changes you aren't ready to commit.
@@ -84,7 +84,7 @@ Because every glitch project is already a git repository, you cannot easily do a
 
 1. Enter `git config user.email "YOUR GITHUB EMAIL ADDRESS"`
 1. Enter `git config user.name "YOUR NAME"`
-1. Now try enterring `git commit -m "Edits on glitch"` again. You no longer get an error and your commit is successfully staged.
+1. Now try entering `git commit -m "Edits on glitch"` again. You no longer get an error and your commit is successfully staged.
 1. Enter `git push origin master` and you will be asked for your github username and password.
 
     :::tip

@@ -1,6 +1,6 @@
 ---
 prev: ./git.md
-# next: ./js-2.md
+next: ./js-2.md
 ---
 # Programming Concepts
 
@@ -157,30 +157,10 @@ All done!
 [freecodecamp.org]: https://www.freecodecamp.org "freeCodeCamp homepage"
 [Computing Timeline]: https://en.wikipedia.org/wiki/Timeline_of_computing "Computing Timeline"
 [Programming background]: https://en.wikiversity.org/wiki/Introduction_to_Programming/About_Programming "Programming background"
-[3]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Programming_Languages
 [Algorithms]: https://en.wikiversity.org/wiki/What_is_an_Algorithm "Algorithms"
 [Pseudocode]: https://en.wikiversity.org/wiki/How_to_go_about_implementing_a_problem_solution_as_a_program
-[6]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Organization
-[7]: https://en.wikiversity.org/wiki/Types_and_variables
-[8]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Variables
-[9]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Numeric_Variables
-[10]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Boolean_Variables
-
-[12]: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction
-[13]: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/hexadecimal-number-system
-[14]: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-binary
-[15]: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-hexadecimal
-[16]: https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/large-number-decimal-to-binary
 [Organizing programs]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Organization "Organizing programs"
-[18]: https://www.bbc.com/bitesize/guides/zp73wmn/revision/1
-[19]: https://youtu.be/G41G_PEWFjE
-[20]: https://youtu.be/ijjVDBPwA1o
-[21]: https://youtu.be/y3rCKJNOwpA
 [#sp19-04-chat]: https://rccitp175.slack.com/messages/CGV01T9ST "#sp19-04-chat Slack channel"
 [#sp19-04-project]: https://rccitp175.slack.com/messages/CGVN987AS "#sp19-04-project Slack channel"
-[23]: https://www.github.com
-[24]: https://itp175fa18.slack.com/messages/CCMBSQX0X
-[25]: https://support.google.com/websearch/answer/2466433?hl=en&ref_topic=3081620
-[26]: https://support.google.com/websearch/answer/142143?hl=en&ref_topic=3081620
 [Commenting code]: https://en.wikipedia.org/wiki/Comment_(computer_programming) "Commenting code"
 [Wordpress]: https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/#comments "Wordpress Javascript comments standards"

@@ -72,7 +72,7 @@ All assignments are due Mondays at 9am unless otherwise noted.
 |`02/18`| :books::repeat::speech_balloon::memo::atom_symbol: | [03 Git & Github][] |  |
 |`03/04`| || Spring Break `03/04 - 03/09` |
 |`03/11`| :books::repeat::speech_balloon::memo::atom_symbol: | [04 Programming concepts and JavaScript Intro][] |  |
-|`03/18`| :books::repeat::speech_balloon::memo::atom_symbol: | 05 JavaScript: Strings, Arrays |  |
+|`03/18`| :books::repeat::speech_balloon::memo::atom_symbol: | [05 JavaScript: Strings, Arrays][] |  |
 |`03/25`| :books::repeat::speech_balloon::memo::atom_symbol: | 06 JavaScript: Functions, Comparison | Last day to withdraw `03/26` |
 |`04/01`| :books::repeat::speech_balloon::memo::atom_symbol: | 07 JavaScript: Objects |  |
 |`04/08`| :books::repeat::speech_balloon::memo::atom_symbol: | 08 JavaScript: Iteration |  |
@@ -111,3 +111,4 @@ If you are enrolled in this course at RCC can find a version of this syllabus wi
 [02 Linux CLI: Editors, Environment, Scripting]: cli-2.md "Module 02 Linux CLI"
 [03 Git & Github]: git.md "Module 03 Git & Github"
 [04 Programming concepts and JavaScript Intro]: js-1.md "04 Programming concepts and JavaScript Intro"
+[05 JavaScript: Strings, Arrays]: js-2.md "05 JavaScript: Strings, Arrays"
