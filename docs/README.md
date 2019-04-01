@@ -73,10 +73,10 @@ All assignments are due Mondays at 9am unless otherwise noted.
 |`03/04`| || Spring Break `03/04 - 03/09` |
 |`03/11`| :books::repeat::speech_balloon::memo::atom_symbol: | [04 Programming concepts and JavaScript Intro][] |  |
 |`03/18`| :books::repeat::speech_balloon::memo::atom_symbol: | [05 JavaScript: Strings, Arrays][] |  |
-|`03/25`| :books::repeat::speech_balloon::memo::atom_symbol: | 06 JavaScript: Functions, Comparison | Last day to withdraw `03/26` |
-|`04/01`| :books::repeat::speech_balloon::memo::atom_symbol: | 07 JavaScript: Objects |  |
-|`04/08`| :books::repeat::speech_balloon::memo::atom_symbol: | 08 JavaScript: Iteration |  |
-|`04/15`| | | |
+|`03/25`|  |  | Last day to withdraw `03/26` |
+|`04/01`| :books::repeat::speech_balloon::memo::atom_symbol: | 06 JavaScript: Functions, Comparison  |  |
+|`04/08`| :books::repeat::speech_balloon::memo::atom_symbol: | 07 JavaScript: Objects |  |
+|`04/15`| :books::repeat::speech_balloon::memo::atom_symbol: | 08 JavaScript: Iteration | |
 |`04/22`| | | Last day of class `04/29`<br />Student research/reading day `04/30`|
 |`04/29`| | | Final exams `05/01 - 05/07`|
 |`05/08`| | | Grades due `05/08` |

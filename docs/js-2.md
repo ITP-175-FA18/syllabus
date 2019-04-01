@@ -1,6 +1,6 @@
 ---
 prev: ./js-1.md
-# next: ./js-3.md
+next: ./js-3.md
 ---
 # Programming Concepts 2
 

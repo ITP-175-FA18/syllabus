@@ -1,7 +1,11 @@
 ---
 prev: ./js-2.md
-next: ./js-4.md
+#next: ./js-4.md
 ---
+# Control Structures and Functions
+
+## :books: Watch and Read
+
 ### Control Structures
 
 To solve real-world problems, we use control structures which allow our code to flow logicly similar to the way our brains do. For example, how would you explain the rules of the game "Rock, Paper, Scissors" to a friend who has never heard it? You might say something like:
@@ -11,75 +15,67 @@ To solve real-world problems, we use control structures which allow our code to 
 1. each player shakes their fist a fourth time and changes their fist to one of the shapes for rock, paper, or scissors
 1. player 1 wins if she chooses rock and player 2 chooses scissors or she chooses paper and player 2 chooses rock or she chooses scissors and player 2 chooses paper
 
-In programming, we use control structures to accomplish logic like this.
+In programming, we use **control structures** to accomplish logic like this.
 
-1. [If, If Else, and Else statements][7]
-1. [And/Or statements][8]
-1. [While and For loops][9]
+<div class="res-em"><iframe width="560" height="315" src="https://www.youtube.com/embed/UDi7xgIIW8E?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-After watching the videos above, you may see some places where we could use control structures to write rock, paper, scissors in code. For example "each player shakes their fist three times", would be an opportunity to use a `for` loop
+<div class="res-em"><iframe width="560" height="315" src="https://www.youtube.com/embed/kyFdniI-ZZs?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-```javascript
-for (shakes=1; shakes<4; shakes++){
-    //code for fist shaking here
-}
-```
+<div class="res-em"><iframe width="560" height="315" src="https://www.youtube.com/embed/RQ6GJt9f2vg?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-The code above reads as "for every `shake` starting at 1, as long as `shakes` is less than 4, add 1 to the current value of `shakes` and do whatever I say between these curly braces `{}`.
+After watching the videos above, you may see some places where we could use control structures to write rock, paper, scissors in code.
 
 The rules around who wins could be expressed with if, and, or statements. The `&&` represents AND, the `||` represents OR.
 
 ```javascript
-if (player1.fist == 'rock' && player2.fist == 'scissors' ||
-    player1.fist == 'paper' && player2.fist == 'rock' ||
-    player1.fist == 'scissors' && player2.fist == 'paper') {
+if (player1 == 'rock' && player2 == 'scissors' ||
+    player1 == 'paper' && player2 == 'rock' ||
+    player1 == 'scissors' && player2 == 'paper') {
         winner = player1
-    }
+}
 ```
 
 ### Procedures, Functions, and Libraries
 
-[Functions, also called procedures or methods][12] (there are differences between the three, but for our introductory purposes, they serve the same purpose) allow you to right code once and call it again and again without writing it multiple times. In the kindle example above, when we wrote
+<div class="res-em"><iframe width="560" height="315" src="https://www.youtube.com/embed/yPWQfa4CHbw?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Functions, also called procedures or methods (there are differences between the three, but for our introductory purposes, they serve the same purpose) allow you to right code once and call it again and again without writing it multiple times. In the example above, we could use a function
+to play many games of Rock, Paper, Scissors.
 
 ```javascript
-for (page in book){
-    console.log(page)
-}
-```
+function game(player1, player2){
+    if (player1 == 'rock' && player2 == 'scissors' ||
+        player1 == 'paper' && player2 == 'rock' ||
+        player1 == 'scissors' && player2 == 'paper') {
 
-We used a function called `console.log` which the creators of the JavaScript language wrote because they knew that would be a common thing people would need to do and people shouldn't have to write their own code every time they want want to do something as simple as "print something on the screen". But what if you want to store something more complex and reuse it later? You can write your own functions to accomplish that. In fact, we could write
+        console.log("winner is " + player1);
 
-```javascript
-
-function showBook (book){
-    for (page in book){
-        console.log(page)
     }
 }
 
-myBook = []
-myBook.push('In the beginning, there was a lot of words on page 1.')
-myBook.push('Then on page 2, some more stuff happened.')
-myBook.push('Finally, things concluded on page 3')
-
-showBook(myBook)
-
-myBook2 = []
-myBook.push('Page 1 text')
-myBook.push('Page 2 text')
-myBook.push('Page 3 text')
-myBook.push('Page 4 text')
-
-showBook(myBook2)
+game("Rock", "Scissors");
+game("Paper", "Rock");
 ```
 
-Notice, we still need to define an array to store our book and use the push method to add pages to each book. But when it came time to print out the book, we can call the `showBook` function we wrote and use it for both `myBook` and `myBook2`. Functions allow you to scale your code to complete complex logic 1000s of times with minimal effort.
+We wrote a function called `game` and used a pre-made function called `console.log` which the creators of the JavaScript language wrote because they knew that would be a common thing people would need to do and people shouldn't have to write their own code every time they want want to do something as simple as "print something on the screen".
 
-Libraries take this one step further and are groups of related functions. [saml2-js][10] is a javascript library for integrating single-sign on to javascript applications. Single-Sign On (SSO) is an often required security practice for enterprise applications and implimenting it is complex and requies many functions. When you logon to myRCC and get access to Blackboard, SIS, and other applications with 1 login, that is SSO. The saml2-js library, would allow a developer to integrate their app securely with SSO and is one example of a library that someone has written that includes all the necessary functions to implement SSO in one package.
+Libraries take this one step further and are groups of related functions. [saml2-js][] is a javascript library for integrating single-sign on to javascript applications. Single-Sign On (SSO) is an often required security practice for enterprise applications and implementing it is complex and requires many functions. When you logon to myRCC and get access to Blackboard, SIS, and other applications with 1 login, that is SSO. The saml2-js library, would allow a developer to integrate their app securely with SSO and is one example of a library that someone has written that includes all the necessary functions to implement SSO in one package.
 
 ### Scope
 
-Read [What is scope?][11] and watch [this lecture on functions and scope][13] which has lots of live coding examples and some audience Q&A.
+Read [What is scope?][] and watch this [lecture on functions and scope][] which has lots of live coding examples and some audience Q&A.
+
+## Practice on freecodecamp
+
+This video shows a couple ways to watch videos and code in Glitch at the same time.
+
+:::tip New Console
+Now that we're coding in JavaScript and not the command line, we're using a different console, the Browser console. This video covers opening the browser console in Chrome. The browser console will show any `console.log` statements you write in your JavaScript files.
+:::
+
+<div class="res-em"><iframe width="560" height="315" src="https://www.youtube.com/embed/j8QiWpIz17s?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Complete the lessons below in [freeCodeCamp JavaScript course][].
 
 1. Write Reusable JavaScript with Functions [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=3101s)
 1. Passing Values to Functions with Arguments [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=3221s)
@@ -116,13 +112,108 @@ Read [What is scope?][11] and watch [this lecture on functions and scope][13] wh
 1. Return Early Pattern for Functions [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=6140s)
 1. Counting Cards [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=6218s)
 
+<div class="asn chat">
 
+## :speech_balloon: 06 Chat
+
+**Due: 04/08/19 9 AM**
+
+### Instructions
+
+The purpose of this chat is to continue developing your self-reflection skills.
+
+1. After going through the content above, write out at least two questions you have related to any of the concepts presented.
+
+    Use this opportunity to ask questions about concepts you don't fully understand. If you are confident in your understand of all the concepts, develop questions around how a concept might be applied or why it might be useful to you in your career.
+
+1. Join the the [#sp19-06-chat][] Slack channel and ask your questions.
+
+### Grading Rubric
+
+| % | Explanation|
+|-----|:--------|
+| 100% | Two questions asked in `#sp19-06-chat` related to this module's content. |
+| +10% | Bonus points for asking more than 2 questions. |
+| +10% | Bonus points for helping other students find answers to their questions. |
+
+</div>
+
+<div class="asn journal">
+
+## :memo: 06 Journal
+
+**Due: 04/08/19 9 AM**
+
+### Instructions
+
+1. `Direct Message` (DM) Michael Greene (profmikegreene) with two lists.
+    1. One for the things you understand most confidently.
+    1. One for the things you are struggling with.
+
+>The items in these lists can be vocabulary, assignment tasks, concepts, whatever sticks out in your mind. Try to find at least two items per list and feel free to make them as long as you like.
+
+### Grading Rubric
+
+| % | Explanation|
+|-----|:--------|
+| 50% | Direct message to `profmikegreene` containing a list of things you are confident you understand |
+| 50% | Direct message to `profmikegreene` containing a list of things you are struggling with |
+
+</div>
+
+<div class="asn project">
+
+## :atom_symbol: 06 Project
+
+**Due: 04/08/19 9 AM**
+
+The purpose of this project is to prove your understanding of the concepts in this lesson.
+
+### Instructions
+
+#### Setup
+
+1. Click `Channels` in the Slack sidebar to view all channels
+1. Join the [#sp19-06-project][] slack channel
+1. In that Slack channel, you will see a link that will take you to Github Classroom
+1. Click the `Accept this assignment` button and Github will create a project repo for you.
+1. Once this step is complete, the page should say "Your assignment has been created here: https://github.com/RCC-ITP-175/sp19-06-". Click this link and visit your repository.
+1. Create a new Glitch project using the `Clone from Git Repo` option and paste in `RCC-ITP-175/sp19-06-YOURGITHUBUSERNAME` to clone from the repo you just created.
+
+#### Javascript
+
+1. Your Glitch project now contains several exercise.js files which contain instructions and some `console.log` statements to validate that you've completed the instructions.
+1. Write some Javascript to complete the instructions for each of the exercise.js files.
+
+#### Submission
+
+1. Open the Glitch Tools menu in the bottom left, and select `Git, Import, and Export`
+1. Click `Export to Github` and if asked type `RCC-ITP-175/sp19-06-`
+
+    For example, I would type `RCC-ITP-175/sp19-06-profmikegreene`
+
+1. Click OK and your project should be exported to Github
+1. Visit your repo on [github.com][] and click the branches dropdown and you should see a Glitch branch containing your code
+
+All done!
+
+### Grading Rubric
+
+| pts | Explanation|
+|-----|:--------|
+| 5 | Create a github repo for this project |
+| 15 | exercise1.js completed |
+| 15 | exercise2.js completed |
+| 15 | exercise3.js completed |
+
+</div>
 
 [//]: # (References)
-[7]: https://youtu.be/UDi7xgIIW8E
-[8]: https://youtu.be/kyFdniI-ZZs
-[9]: https://youtu.be/RQ6GJt9f2vg
-[10]: https://www.npmjs.com/package/saml2-js
-[11]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Scope
-[12]: https://youtu.be/yPWQfa4CHbw
-[13]: https://frontendmasters.com/courses/javascript-basics/scope/
+[github.com]: https://github.com "Github homepage"
+[saml2-js]: https://www.npmjs.com/package/saml2-js "saml2-js library"
+[What is scope?]: https://en.wikiversity.org/wiki/Introduction_to_Programming/Scope "What is scope?"
+[lecture on functions and scope]: https://frontendmasters.com/courses/javascript-basics/scope/ "lecture on functions and scope"
+[freeCodeCamp JavaScript course]: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/ "freeCodeCamp JavaScript course"
+[#sp19-06-chat]: https://rccitp175.slack.com/messages/CHJG6H2QP "#sp19-06-chat Slack channel"
+[#sp19-06-project]: https://rccitp175.slack.com/messages/CH8NA7AKB "#sp19-06-project Slack channel"
+[freecodecamp curriculum]: https://learn.freecodecamp.org/ "freecodecamp curriculum"
