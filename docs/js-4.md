@@ -9,6 +9,8 @@ next: ./js-5.md
 <div class="res-em">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZunUF_WGMb4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+Complete the following freecodecamp.org lessons.
+
 1. Build JavaScript Objects [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=6551s)
 1. Accessing Object Properties with Dot Notation [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=6646s)
 1. Accessing Object Properties with Bracket Notation [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=6693s)

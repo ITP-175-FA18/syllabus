@@ -77,8 +77,8 @@ All assignments are due Mondays at 9am unless otherwise noted.
 |`04/01`| :books::repeat::speech_balloon::memo::atom_symbol: | [06 JavaScript: Functions, Comparison][] |  |
 |`04/08`| :books::repeat::speech_balloon::memo::atom_symbol: | [07 JavaScript: Objects][] |  |
 |`04/15`| :books::repeat::speech_balloon::memo::atom_symbol: | [08 JavaScript: Iteration][] | |
-|`04/22`| | | Last day of class `04/29`<br />Student research/reading day `04/30`|
-|`04/29`| | | Final exams `05/01 - 05/07`|
+|`04/22`| | No assignments this week. | Last day of class `04/29`<br />Student research/reading day `04/30`|
+|`04/29`| | Any regrade requests must be emailed or Direct Messaged to the professor by **Friday 05/03**. | Final exams `05/01 - 05/07`|
 |`05/08`| | | Grades due `05/08` |
 
 </div>
