@@ -2,8 +2,12 @@
 prev: ./js-3.md
 next: ./js-5.md
 ---
+# Objects
 
-# Interpreted Languages
+## :books: Watch and Read
+
+<div class="res-em">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZunUF_WGMb4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 1. Build JavaScript Objects [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=6551s)
 1. Accessing Object Properties with Dot Notation [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=6646s)
@@ -19,103 +23,104 @@ next: ./js-5.md
 1. Accessing Nested Arrays [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=7313s)
 1. Record Collection [:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)[:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=7386s)
 
-This module is all about taking those programming concepts and applying them to a specific language.
+<div class="asn chat">
 
-Javascript is the interpreted language we'll be spending time with in this course. Mozilla's [Javascript Basics][1] offers a nice and concise reference of the programming concepts covered this far and how to invoke them in Javascript.
+## :speech_balloon: 07 Chat
 
-Watch the following videos from freeCodeCamp's introduction to Javascript. Follow along with Beau by completing these steps. [A video version is available on youtube][11]:
-
-1. creating a new `hello-webpage` project on Glitch
-1. clicking the Show Live sunglasses in the top left
-1. opening the browser console for the Show Live tab
-1. code in the Glitch editor
-
-There are other videos in the playlist, but these are the ones required for this course.
-
-1. [Variables][8]
-1. [Data Types][9]
-1. [Numbers][10]
-1. [Strings][12]
-1. [Bracket Notation][13]
-1. [20 String Methods][14]
-1. [Functions][15]
-1. [Comparison][16]
-1. [Logical Operators][18]
-    1. Short circuit operation is not required for this course. You can stop after 2:30
-1. [Null vs undefined][17]
-1. [Switch statements][19]
-1. [Arrays][20]
-1. [10 Array Methods][21]
-1. [For Loops][22]
-1. [While/Do Loops][23]
-1. [For in/of loops][24]
-1. [Objects][25]
-
-**Take the following lessons in [Codecademy's Introduction to JavaScript][3] to get some experience with JavaScript fundamentals.** You're welcome to go beyond these modules, but these are required.
-
-1. Introduction
-    1. Variables
-1. Conditional Statements
-1. Functions
-1. Scope
-1. Arrays
-1. Loops
-1. Iterators
-    1. Higher Order Functions
-    1. Iterators
-1. Objects
-    1. Objects
-
-## Extra Resources
-
-* [JavaScript: Novice to Ninja, 2nd Edition][2]
-* [Intro to JavaScript Full Course- youtube][5]
-* [Fun Fun Function - youtube channel][6]
-* [Dev Tips - youtube channel][7]
-
-## :speech_balloon: Chat 5
+**Due: 04/15/19 9 AM**
 
 ### Instructions
 
 The purpose of this chat is to continue developing your self-reflection skills.
 
-1. After going through the content in above, write out two questions you have related to any of the concepts presented.
+1. After going through the content above, write out at least two questions you have related to any of the concepts presented.
 
     Use this opportunity to ask questions about concepts you don't fully understand. If you are confident in your understand of all the concepts, develop questions around how a concept might be applied or why it might be useful to you in your career.
 
-1. [Join the the `#sp19-c5` Slack channel][26] and ask your questions.
+1. Join the the [#sp19-07-chat][] Slack channel and ask your questions.
 
 ### Grading Rubric
 
 | % | Explanation|
 |-----|:--------|
-| 100% | Two questions asked in `#sp19-c5` related to the content in `interpreted languages`. |
+| 100% | Two questions asked in `#sp19-07-chat` related to this module's content. |
 | +10% | Bonus points for asking more than 2 questions. |
 | +10% | Bonus points for helping other students find answers to their questions. |
 
+</div>
+
+<div class="asn journal">
+
+## :memo: 07 Journal
+
+**Due: 04/15/19 9 AM**
+
+### Instructions
+
+1. `Direct Message` (DM) Michael Greene (profmikegreene) with two lists.
+    1. One for the things you understand most confidently.
+    1. One for the things you are struggling with.
+
+>The items in these lists can be vocabulary, assignment tasks, concepts, whatever sticks out in your mind. Try to find at least two items per list and feel free to make them as long as you like.
+
+### Grading Rubric
+
+| % | Explanation|
+|-----|:--------|
+| 50% | Direct message to `profmikegreene` containing a list of things you are confident you understand |
+| 50% | Direct message to `profmikegreene` containing a list of things you are struggling with |
+
+</div>
+
+<div class="asn project">
+
+## :atom_symbol: 07 Project
+
+**Due: 04/15/19 9 AM**
+
+The purpose of this project is to prove your understanding of the concepts in this lesson.
+
+### Instructions
+
+#### Setup
+
+1. Click `Channels` in the Slack sidebar to view all channels
+1. Join the [#sp19-07-project][] slack channel
+1. In that Slack channel, you will see a link that will take you to Github Classroom
+1. Click the `Accept this assignment` button and Github will create a project repo for you.
+1. Once this step is complete, the page should say "Your assignment has been created here: https://github.com/RCC-ITP-175/sp19-07-". Click this link and visit your repository.
+1. Create a new Glitch project using the `Clone from Git Repo` option and paste in `RCC-ITP-175/sp19-07-YOURGITHUBUSERNAME` to clone from the repo you just created.
+
+#### Javascript
+
+1. Your Glitch project now contains several exercise.js files which contain instructions and some `console.log` statements to validate that you've completed the instructions.
+1. Write some Javascript to complete the instructions for each of the exercise.js files.
+
+#### Submission
+
+1. Open the Glitch Tools menu in the bottom left, and select `Git, Import, and Export`
+1. Click `Export to Github` and if asked type `RCC-ITP-175/sp19-07-`
+
+    For example, I would type `RCC-ITP-175/sp19-07-profmikegreene`
+
+1. Click OK and your project should be exported to Github
+1. Visit your repo on [github.com][] and click the branches dropdown and you should see a Glitch branch containing your code
+
+All done!
+
+### Grading Rubric
+
+| pts | Explanation|
+|-----|:--------|
+| 5 | Create a github repo for this project |
+| 10 | exercise1.js completed |
+| 10 | exercise2.js completed |
+| 20 | exercise3.js completed |
+
+</div>
+
 [//]: # (References)
-[1]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#Language_basics_crash_course
-[2]: https://proquest-safaribooksonline-com.ezrcc.vccs.edu:2443/book/programming/javascript/9781492023623
-[3]: https://www.codecademy.com/learn/introduction-to-javascript
-[5]: https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5
-[6]: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
-[7]: https://www.youtube.com/user/DevTipsForDesigners
-[8]: https://youtu.be/le-URjBhevE
-[9]: https://youtu.be/808eYu9B9Yw
-[10]: https://youtu.be/nBEBraDJkFg
-[11]: https://youtu.be/j8QiWpIz17s
-[12]: https://youtu.be/Vd_Z1bYGrCM
-[13]: https://youtu.be/sPmRfjJdg5Y
-[14]: https://youtu.be/VRz0nbax0uI
-[15]: https://youtu.be/R8SjM4DKK80
-[16]: https://youtu.be/7WkfzokHGqo
-[17]: https://youtu.be/VwaqJy_clnc
-[18]: https://youtu.be/r7v6EIiHfVA
-[19]: https://youtu.be/fM5qnyasUYI
-[20]: https://youtu.be/QEZXbRiaY1I
-[21]: https://youtu.be/MeZVVxLn26E
-[22]: https://youtu.be/24Wpg6njlYI
-[23]: https://youtu.be/v9zgD8wjtbw
-[24]: https://youtu.be/a3KHBqH7njs
-[25]: https://youtu.be/Gp5nnerXETg
-[26]: blank
+
+[github.com]: https://github.com "Github homepage"
+[#sp19-07-chat]: https://rccitp175.slack.com/messages/CHASZQKRR "#sp19-07-chat Slack channel"
+[#sp19-07-project]: https://rccitp175.slack.com/messages/CHNCRME8G "#sp19-07-project Slack channel"

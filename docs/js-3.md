@@ -1,6 +1,6 @@
 ---
 prev: ./js-2.md
-#next: ./js-4.md
+next: ./js-4.md
 ---
 # Control Structures and Functions
 

@@ -17,8 +17,8 @@ module.exports = {
           { text: '04 Programming concepts and JavaScript Intro', link: 'js-1.md'},
           { text: '05 JavaScript: Strings, Arrays', link: 'js-2.md'},
           { text: '06 JavaScript: Functions, Comparison', link: 'js-3.md'},
-          // { text: '07 JavaScript: Objects', link: 'js-4.md'},
-          // { text: '08 JavaScript: Iteration', link: 'js-5.md'},
+          { text: '07 JavaScript: Objects', link: 'js-4.md'},
+          { text: '08 JavaScript: Iteration', link: 'js-5.md'},
 
         ]  },
       { text: 'Course Tools',

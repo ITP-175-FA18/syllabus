@@ -44,6 +44,14 @@ Complete the first 21 lessons [freeCodeCamp JavaScript course](https://learn.fre
 20. Compound Assignment With Augmented Multiplication [:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=1218s)[:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
 21. Compound Assignment With Augmented Division [:tv: watch](https://youtube.com/watch?v=PkZNo7MFNFg&amp;t=1251s)[:computer: code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)
 
+## Extra Resources
+
+* [JavaScript: Novice to Ninja, 2nd Edition][2]
+* [freecodecamp - youtube channel][5]
+* [Fun Fun Function - youtube channel][6]
+* [Dev Tips - youtube channel][7]
+* [Mozilla's Javascript Basics][1]
+
 <div class="asn chat">
 
 ## :speech_balloon: 04 Chat
@@ -164,3 +172,8 @@ All done!
 [#sp19-04-project]: https://rccitp175.slack.com/messages/CGVN987AS "#sp19-04-project Slack channel"
 [Commenting code]: https://en.wikipedia.org/wiki/Comment_(computer_programming) "Commenting code"
 [Wordpress]: https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/#comments "Wordpress Javascript comments standards"
+[1]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#Language_basics_crash_course
+[2]: https://proquest-safaribooksonline-com.ezrcc.vccs.edu:2443/book/programming/javascript/9781492023623
+[5]: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+[6]: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+[7]: https://www.youtube.com/user/DevTipsForDesigners
